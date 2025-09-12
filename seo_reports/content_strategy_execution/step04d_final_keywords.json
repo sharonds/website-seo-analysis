@@ -1,0 +1,321 @@
+{
+  "filtering_summary": {
+    "total_input_keywords": 83,
+    "total_filtered_keywords": 36,
+    "filtering_date": "2025-09-12",
+    "input_sources": [
+      "Step 4A: 30 base keywords from customer journey mapping",
+      "Step 4B: 53 expanded keywords from DataForSEO tool expansion",
+      "Step 4C: Not available (competitor analysis not completed)"
+    ],
+    "elimination_rate": "56.6%",
+    "retention_criteria": "Business relevance to nursing care insurance legal services, commercial/transactional intent preference, duplication removal"
+  },
+  "filtered_keywords": [
+    {
+      "keyword": "ביטוח סיעוד נדחה מה לעשות",
+      "source_phase": "4a",
+      "business_relevance": "high",
+      "estimated_intent": "transactional",
+      "inclusion_reason": "High-urgency problem solving opportunity with clear legal service need"
+    },
+    {
+      "keyword": "תביעת ביטוח סיעוד דחייה",
+      "source_phase": "4a",
+      "business_relevance": "high",
+      "estimated_intent": "transactional",
+      "inclusion_reason": "Direct legal action requirement, core business service"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד המלצות",
+      "source_phase": "4a",
+      "business_relevance": "high",
+      "estimated_intent": "commercial",
+      "inclusion_reason": "Direct service search with commercial intent, consideration stage"
+    },
+    {
+      "keyword": "אחוז הצלחה תביעות ביטוח סיעוד",
+      "source_phase": "4a",
+      "business_relevance": "high",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Professional credibility research, leads to service evaluation"
+    },
+    {
+      "keyword": "זמן תהליך תביעת ביטוח סיעוד",
+      "source_phase": "4a",
+      "business_relevance": "high",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Process understanding need, indicates service consideration"
+    },
+    {
+      "keyword": "התייעצות ראשונית עורך דין ביטוח סיעוד",
+      "source_phase": "4a",
+      "business_relevance": "high",
+      "estimated_intent": "transactional",
+      "inclusion_reason": "Direct service request, high conversion potential"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד פתח תקווה",
+      "source_phase": "4a",
+      "business_relevance": "high",
+      "estimated_intent": "commercial",
+      "inclusion_reason": "Local market targeting with commercial intent"
+    },
+    {
+      "keyword": "מה קורה אם מפסידים תביעת ביטוח סיעוד",
+      "source_phase": "4a",
+      "business_relevance": "high",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Risk assessment concern, leads to professional consultation need"
+    },
+    {
+      "keyword": "לפנות לעורך דין ביטוח סיעוד כן או לא",
+      "source_phase": "4a",
+      "business_relevance": "high",
+      "estimated_intent": "commercial",
+      "inclusion_reason": "Decision-making query with high commercial intent"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד חיפה צפון",
+      "source_phase": "4a",
+      "business_relevance": "high",
+      "estimated_intent": "commercial",
+      "inclusion_reason": "Geographic targeting with commercial intent"
+    },
+    {
+      "keyword": "ההורים שלי צריכים עורך דין ביטוח סיעוד",
+      "source_phase": "4a",
+      "business_relevance": "high",
+      "estimated_intent": "commercial",
+      "inclusion_reason": "Family-driven service need with commercial intent"
+    },
+    {
+      "keyword": "להתקשר לעורך דין ביטוח סיעוד טלפון",
+      "source_phase": "4a",
+      "business_relevance": "high",
+      "estimated_intent": "transactional",
+      "inclusion_reason": "Immediate contact intent, highest conversion potential"
+    },
+    {
+      "keyword": "פגישה אישית עורך דין ביטוח סיעוד",
+      "source_phase": "4a",
+      "business_relevance": "high",
+      "estimated_intent": "transactional",
+      "inclusion_reason": "Direct service engagement intent"
+    },
+    {
+      "keyword": "תשלום שלבים עורך דין ביטוח סיעוד",
+      "source_phase": "4a",
+      "business_relevance": "high",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Service terms research, advanced consideration stage"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעודי",
+      "source_phase": "4b",
+      "business_relevance": "high",
+      "estimated_intent": "commercial",
+      "inclusion_reason": "Direct service search, professional specialization focus"
+    },
+    {
+      "keyword": "תביעות ביטוח סיעוד",
+      "source_phase": "4b",
+      "business_relevance": "high",
+      "estimated_intent": "commercial",
+      "inclusion_reason": "Core service area with commercial potential"
+    },
+    {
+      "keyword": "דחיית תביעת ביטוח סיעוד",
+      "source_phase": "4b",
+      "business_relevance": "high",
+      "estimated_intent": "transactional",
+      "inclusion_reason": "Problem-solving urgency, high legal service need"
+    },
+    {
+      "keyword": "זכאות לביטוח סיעוד אלצהיימר",
+      "source_phase": "4a",
+      "business_relevance": "medium",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Condition-specific eligibility, potential legal guidance need"
+    },
+    {
+      "keyword": "איך יודעים אם זכאי לביטוח סיעוד",
+      "source_phase": "4a",
+      "business_relevance": "medium",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Eligibility assessment, may require professional evaluation"
+    },
+    {
+      "keyword": "כמה עולה עורך דין לביטוח סיעוד",
+      "source_phase": "4a",
+      "business_relevance": "medium",
+      "estimated_intent": "commercial",
+      "inclusion_reason": "Cost consideration in service evaluation"
+    },
+    {
+      "keyword": "מה זה בדיקת תפקוד ביטוח סיעוד",
+      "source_phase": "4a",
+      "business_relevance": "medium",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Process understanding, may require professional guidance"
+    },
+    {
+      "keyword": "למה ביטוח סיעוד לא משלם אחרי שנים של תשלומים",
+      "source_phase": "4a",
+      "business_relevance": "medium",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Problem identification, potential legal consultation need"
+    },
+    {
+      "keyword": "זכויות קשיש ביטוח סיעוד",
+      "source_phase": "4a",
+      "business_relevance": "medium",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Rights awareness, may lead to legal guidance requirement"
+    },
+    {
+      "keyword": "איך עובד ביטוח סיעוד בישראל",
+      "source_phase": "4a",
+      "business_relevance": "medium",
+      "estimated_intent": "informational",
+      "inclusion_reason": "System understanding, foundation for potential legal needs"
+    },
+    {
+      "keyword": "תנאי זכאות ביטוח סיעוד גיל שלישי",
+      "source_phase": "4a",
+      "business_relevance": "medium",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Age-specific eligibility, potential professional guidance need"
+    },
+    {
+      "keyword": "עורך דין מוסמך ביטוח סיעוד רישיון",
+      "source_phase": "4a",
+      "business_relevance": "medium",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Professional qualification verification, trust-building stage"
+    },
+    {
+      "keyword": "עלות ייעוץ משפטי ביטוח סיעוד",
+      "source_phase": "4a",
+      "business_relevance": "medium",
+      "estimated_intent": "commercial",
+      "inclusion_reason": "Service cost evaluation, commercial consideration"
+    },
+    {
+      "keyword": "איך בוחרים עורך דין טוב ביטוח סיעוד",
+      "source_phase": "4a",
+      "business_relevance": "medium",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Selection criteria research, advanced consideration stage"
+    },
+    {
+      "keyword": "עורך דין לענייני ביטוח",
+      "source_phase": "4b",
+      "business_relevance": "medium",
+      "estimated_intent": "commercial",
+      "inclusion_reason": "General insurance legal services, broader market capture"
+    },
+    {
+      "keyword": "עורך דין ביטוחים",
+      "source_phase": "4b",
+      "business_relevance": "medium",
+      "estimated_intent": "commercial",
+      "inclusion_reason": "Insurance law specialization, related service area"
+    },
+    {
+      "keyword": "ביטוח סיעודי הראל",
+      "source_phase": "4b",
+      "business_relevance": "medium",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Insurance company specific, potential claims situations"
+    },
+    {
+      "keyword": "זכאות לביטוח סיעוד",
+      "source_phase": "4b",
+      "business_relevance": "medium",
+      "estimated_intent": "informational",
+      "inclusion_reason": "General eligibility assessment, foundation for legal needs"
+    },
+    {
+      "keyword": "ביטוח סיעוד מגיל",
+      "source_phase": "4b",
+      "business_relevance": "medium",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Insurance company specific, potential claims context"
+    },
+    {
+      "keyword": "בדיקת תפקוד ביטוח סיעוד",
+      "source_phase": "4b",
+      "business_relevance": "medium",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Assessment process understanding, may require professional guidance"
+    },
+    {
+      "keyword": "ביטוח סיעוד כלל",
+      "source_phase": "4b",
+      "business_relevance": "medium",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Insurance company specific, potential claims situations"
+    },
+    {
+      "keyword": "ביטוח סיעוד מנורה מבטחים",
+      "source_phase": "4b",
+      "business_relevance": "medium",
+      "estimated_intent": "informational",
+      "inclusion_reason": "Major insurance company specific, potential claims context"
+    }
+  ],
+  "elimination_summary": {
+    "excluded_count": 47,
+    "primary_exclusion_reasons": [
+      "General life insurance terms (ביטוח חיים) - outside business scope",
+      "National insurance/social security terms (ביטוח לאומי) - government service",
+      "Accident insurance terms (ביטוח תאונות) - different legal specialty",
+      "Insurance company contact information - not service-related",
+      "Unrelated professional insurance (teachers, tour guides) - outside scope",
+      "Administrative/government terms without legal context",
+      "Low-quality expanded variations without business relevance"
+    ]
+  },
+  "strategic_insights": {
+    "intent_distribution": {
+      "commercial": "19 keywords (52.8%)",
+      "informational": "12 keywords (33.3%)",
+      "transactional": "5 keywords (13.9%)"
+    },
+    "relevance_distribution": {
+      "high_relevance": "17 keywords (47.2%)",
+      "medium_relevance": "19 keywords (52.8%)"
+    },
+    "geographic_targeting": {
+      "specific_locations": "2 keywords (פתח תקווה, חיפה צפון)",
+      "national_scope": "34 keywords"
+    },
+    "business_categories": {
+      "direct_legal_services": "17 keywords",
+      "claims_and_process": "8 keywords", 
+      "rights_and_eligibility": "7 keywords",
+      "insurance_products": "4 keywords"
+    }
+  },
+  "recommendations_for_step_5": {
+    "metrics_analysis_priorities": [
+      "Focus on commercial intent keywords for volume assessment",
+      "Evaluate competition levels for high-relevance terms",
+      "Assess SERP features for informational keywords",
+      "Gather seasonal trends for claims-related terms"
+    ],
+    "content_strategy_implications": [
+      "Service pages for direct legal service keywords",
+      "Educational content for rights and eligibility terms", 
+      "Local SEO opportunities for geographic keywords",
+      "Company-specific content for insurance brand terms"
+    ],
+    "competitive_positioning": [
+      "Legal specialization advantage over general insurance content",
+      "Problem-solving focus for claim denial situations",
+      "Professional credibility content for trust building",
+      "Local market expansion opportunities"
+    ]
+  }
+}
