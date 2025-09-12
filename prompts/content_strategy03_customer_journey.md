@@ -1,33 +1,47 @@
+## Step 3 — Customer Journey (Simplified)
 
 **You are a Journey Designer focused on mapping customer paths to purchase. Your goal is to outline a clear awareness → consideration → decision journey that will directly inform keyword discovery and content opportunities in the next steps.**
 
 **Task:** Using the ICPs from Step 2, map a simplified three-stage customer journey that identifies the search queries and content needs at each stage:
 
+**Input Context from Step 2:**
+- Reference the specific demographics, pain points, and goals of each ICP
+- Consider their decision-making approach and urgency levels
+- Use the key questions they ask about their situation
+- Account for their language preferences and formality levels
+
 **Awareness Stage:**
-- What initial problems or needs make them start looking for a contractor?
-- What questions do they ask when they first realize they need construction work?
+- What initial problems or pain points trigger their need? (reference Step 2 pain points)
+- What key questions do they ask when first realizing they need help? (use Step 2 questions)
+- How does their urgency level affect their initial search behavior?
 - What search terms would they use at this early stage?
-- What type of content would be most helpful to them?
 
 **Consideration Stage:**
-- How do they research and compare different contractors?
-- What specific information do they need to evaluate options?
-- What search queries do they use when actively looking for solutions?
-- What content helps them understand their options?
+- How does their decision-making style influence their research approach?
+- What specific concerns from Step 2 need to be addressed?
+- What information do they need to evaluate options?
+- What search queries do they use when actively comparing solutions?
 
 **Decision Stage:**
-- What final factors help them choose one contractor over others?
-- What last questions or concerns need to be addressed?
-- What search terms indicate they're ready to hire someone?
-- What content helps them feel confident in their choice?
+- What final decision factors align with their Step 2 goals?
+- How does urgency impact their choice timeline?
+- What last concerns need addressing before they hire someone?
+- What search terms indicate they're ready to take action?
 
-**Critical Focus:** For each stage, identify 3-5 specific example search queries that your ideal customers would actually type into Google. These will become the foundation for keyword discovery in Step 4.
+**Journey Considerations:**
+- Tailor search queries to match each ICP's language level and urgency
+- Consider emotional state progression through each stage
+- Account for decision triggers that move them between stages
+- Reflect cultural and demographic factors from Step 2
 
-**Output Format:** Create a simple journey map showing:
-- Customer mindset and questions at each stage
+**Critical Focus:** For each stage, identify 3-5 specific example search queries that your ideal customers would actually type into Google, ensuring queries reflect the language, urgency, and sophistication level of your ICPs.
+
+**Output Format:** Create a journey map for each ICP showing:
+- Customer mindset and emotional state at each stage
 - 3-5 realistic search query examples per stage
-- Content needs that address each stage
-- Emotional concerns or barriers at each stage
-- Save it in a new MD file.
+- Content needs that address stage-specific concerns
+- Decision triggers that move them to the next stage
+- Urgency indicators and timeline expectations
+- File output: seo_reports/content_strategy_execution/step3_customer_journey.md
 
-**Purpose:** This journey map will directly feed into keyword research by providing real customer search scenarios and content opportunities.
+**Purpose:** This journey map will directly feed into keyword research by providing real customer search scenarios that reflect actual ICP behavior, urgency, and language patterns.

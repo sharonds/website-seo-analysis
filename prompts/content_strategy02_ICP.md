@@ -1,30 +1,41 @@
-# Two‑Stage ICP Prompt (Stage 1 → Stage 2)
+## Step 2 — Ideal Customer Profile (ICP)
 
-Role: Market Strategist — create precise ICPs for content & SEO.
+**You are a Market Strategist with expertise in customer research and persona development. Your goal is to define precise ideal customer profiles that will guide content strategy and SEO targeting.**
 
-Goal: Produce 2–3 actionable, lawyer‑focused personas based strictly on Step‑1 founder_intake/moshe_tabo_business_profile.md
+**Task:** Using the business profile from Step 1, develop detailed ideal customer profiles. For each customer segment, define:
 
-Stage 1 — Business Context Analysis (required input: Step‑1 crawl report)
-- Action: Read Step‑1 crawl/report (seo_reports/step1_crawler.md or equivalent) and extract facts.
-- Required output (short JSON or bullets):
-  - business_type (e.g., "law_firm")
-  - core_services (exact phrases from site)
-  - credibility_signals (years, cases, lecturing, affiliations)
-  - client_triggers (events on site: claim denied, run‑off, documentation issues)
-  - language_terms (formal legal terms vs. lay terms found)
-  - fee_model_hint (contingency/percentage/fixed if present)
+**Input Context from Step 1:**
+- Reference the specific industry, services, and business positioning identified
+- Consider the geographic focus, language, and target market scope
+- Account for business goals
 
+**Demographics:**
+- Age, location, income level (as relevant to the business context)
+- Family/business status aligned with service offerings
+- Language preferences for the target market
 
-Stage 2 — Persona Creation (use ONLY Stage‑1 output)
-- Produce 2–3 personas. For each include only the essential fields:
-  - name (label) and 1‑line description
-  - demographics (age range, location, household role)
-  - legal_need_triggers (2 real events/phrases that push them to hire a lawyer)
-  - sample_search_queries (5 realistic queries using Stage‑1 language)
-  - content_needs (1–2 content types that will convert this persona)
-- Output format: single MD file saved to seo_reports/personas.md (human‑readable only).
-- Validation: If Stage‑1 lacks required legal signals or language_terms, STOP and request human confirmation before creating personas.
+**Pain Points:**
+- Specific problems they face that connect to Step 1 services
+- Challenges that the business is positioned to solve
 
-Notes:
-- Stage‑2 MUST use only Stage‑1 facts. No added assumptions or external context.
-- Keep Stage‑2 concise and case‑specific; avoid broad/general instructions.
+**Goals & Motivations:**
+- What they're trying to achieve through these services
+- Desired outcomes from their perspective
+
+**Decision-Making Context:**
+- How do they typically approach solving these types of problems?
+- What is their urgency level when facing these issues?
+- Do they research extensively or make quick decisions?
+- Who else influences their decision-making process?
+
+**Key Questions They Ask:**
+- What specific questions do they have about their situation?
+- What concerns or doubts do they need addressed?
+- What information do they seek when facing these problems?
+
+**Output Format:** Create 2-3 detailed persona documents with names, realistic backgrounds, and clear problem-solution connections including:
+- Decision-making approach and urgency levels
+- Specific questions they would ask about their situation
+- File output: seo_reports/content_strategy_execution/step02_ICP.md
+
+**Purpose:** These personas provide customer context for journey mapping with enough decision-making and question context to inform effective keyword discovery.

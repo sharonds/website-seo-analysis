@@ -2944,3 +2944,384 @@ I'll (1) read the authoritative input files, (2) write a strict Stage‑1 facts 
 
 ---
 
+_**User (2025-09-12 15:15Z)**_
+
+commit changes
+
+---
+
+_**Assistant**_
+
+I'll commit all workspace changes (stage all modified/added files and create a clear commit message describing the new two‑stage Step‑3 prompt and ICP prompt edits). I'll run `git add -A` and `git commit` in the repo root and report the result. Commit complete.
+
+What I did
+- Staged all changes and committed with message:
+  "chore(prompts): add strict two-stage Step-3 customer journey prompt (customer_journey_new_v2.md) and update ICP prompt"
+- Git reported:
+  - 8 files changed, 1,167 insertions(+), 62 deletions(-)
+  - Several files were renamed/moved into `` (backups), and a new `customer_journey_new_v2.md` prompt was added.
+
+Notes & next steps
+- I preserved previous artifacts by moving older versions into `` (you can review backups there).
+- Todos still open (merge titles, re-run Step‑4/Step‑6, scaffold pages). Tell me which to run next and I’ll proceed.
+
+---
+
+_**User (2025-09-12 15:18Z)**_
+
+**You are a Market Strategist with expertise in customer research and persona development. Your goal is to define precise ideal customer profiles that will guide content strategy and SEO targeting.**
+
+**Task:** Using the business profile from Step 1, develop detailed ideal customer profiles. For each customer segment, define:
+
+**Input Context from Step 1:**
+- Reference the specific industry, services, and business positioning identified
+- Consider the geographic focus and target market scope
+- Account for current customer insights and business goals
+- Integrate brand voice, messaging, and competitive differentiation points
+- Use existing website content and messaging as persona insight sources
+
+**Demographics:** 
+- Age, location, job title, company size, income level (as relevant to the business context from Step 1)
+- Family status, property ownership, or business ownership (aligned with service offerings)
+- Language preferences and cultural considerations (especially for Israeli market)
+
+**Psychographics:** 
+- Values, interests, lifestyle factors informed by business positioning
+- Communication preferences that align with current brand messaging
+- Decision-making style and risk tolerance (relevant to service complexity)
+
+**Pain Points:** 
+- Specific problems, challenges, or frustrations they face (directly related to Step 1 services)
+- Current gaps in market that the business is positioned to fill
+- Emotional and practical concerns tied to the business's specialty areas
+
+**Goals & Motivations:** 
+- What they're trying to achieve that connects to business objectives
+- Professional and personal outcomes they seek
+- How success looks from their perspective in relation to offered services
+
+**Buying Behavior:** 
+- How they research solutions in this specific industry context
+- Decision-making process and timeline for these types of services
+- Budget considerations and value perception factors
+- Who else influences their purchasing decisions
+
+**Content Preferences:** 
+- What types of content they consume (informed by current website analysis)
+- Where they find information (channels that align with business reach)
+- Preferred content depth and format based on service complexity
+
+**Search Behavior:** 
+- How they likely search for solutions (formal vs. casual language, specific vs. broad terms)
+- Local vs. general search patterns (considering geographic focus from Step 1)
+- Question-based vs. solution-based search preferences
+
+**Business Context Integration:**
+- Ensure personas align with business capacity and expertise areas
+- Consider seasonal patterns or timing factors from business operations
+- Reflect competitive advantages and unique positioning in persona needs
+- Account for current referral sources and successful customer patterns
+
+**Output Format:** Create 2-3 detailed persona documents with names, realistic backgrounds, and specific examples of:
+- Their typical search queries reflecting business context
+- Content needs that align with business expertise and goals
+- Decision criteria that match business competitive advantages
+- Real-world scenarios of how they would discover and evaluate the services
+
+**Purpose:** These personas will directly inform customer journey mapping and ensure all subsequent content strategy serves real customer needs while leveraging business strengths.
+
+---
+
+_**Assistant**_
+
+I'll (1) update the todo list to mark the ICP prompt generation task as in-progress, (2) read the Step 1 business profile to extract key facts, (3) generate detailed personas following the provided prompt specifications, and (4) save the output to `personas.md` with proper provenance. I'll stop if any required business context is missing from Step 1. Proceeding to update todos and read the business profile. Progress update — I completed Step-2 ICP persona generation and committed the file.
+
+What I created and committed
+- `personas.md` — 3 detailed customer personas based on Step 1 business profile:
+  - **"דורית" (Primary Family Caregiver)** — Adult child managing parent's nursing care, age 45-62, middle-class professional
+  - **"יעקב" (Elderly Policyholder)** — Direct policyholder, age 68-85, needs family assistance, price-sensitive
+  - **"נועה" (Professional Referrer)** — Social worker/care coordinator, age 30-55, makes professional referrals
+
+Key persona elements included
+- Demographics tied to Israeli market and nursing care context
+- Psychographics reflecting Step 1 business positioning (15+ years experience, 3,000+ cases)
+- Pain points directly related to insurance claim denials and legal complexity
+- Search behavior with realistic Hebrew queries
+- Content preferences aligned with current website capabilities (WhatsApp, FAQ, limited pages)
+- Real-world scenarios showing customer discovery and evaluation process
+
+Repository status
+- Committed with message: "feat(personas): generate Step-2 ICP personas based on business profile - 3 detailed customer segments for nursing care insurance law services"
+- File: `personas.md` (430+ lines, comprehensive persona profiles)
+
+Next steps (choose one)
+- I can proceed to any remaining todo (merge titles, validate Step-3 facts, run strict Step-3 Stage-2, re-run Step-4 keywords, re-run Step-6 clustering, or scaffold tactical pages)
+- The personas are now ready to feed into Step-3 customer journey mapping or Step-4 keyword discovery
+
+Which todo should I tackle next?
+
+---
+
+_**User (2025-09-12 15:26Z)**_
+
+## Step 2 — Ideal Customer Profile (ICP)
+
+**You are a Market Strategist with expertise in customer research and persona development. Your goal is to define precise ideal customer profiles that will guide content strategy and SEO targeting.**
+
+**Task:** Using the business profile from Step 1, develop detailed ideal customer profiles. For each customer segment, define:
+
+**Input Context from Step 1:**
+- Reference the specific industry, services, and business positioning identified
+- Consider the geographic,Language,focus and target market scope  
+- Account for business goals
+
+**Demographics:** 
+- Age, location, income level (as relevant to the business context)
+- Family/business status aligned with service offerings
+- Language preferences for the target market
+
+**Pain Points:** 
+- Specific problems they face that connect to Step 1 services
+- Challenges that the business is positioned to solve
+
+**Goals & Motivations:** 
+- What they're trying to achieve through these services
+- Desired outcomes from their perspective
+
+**Output Format:** Create 2-3 detailed persona documents with names, realistic backgrounds, and clear problem-solution connections that will inform customer journey mapping in Step 3.
+- File output: seo_reports/step02_ICP.md
+
+**Purpose:** These personas provide customer context for journey mapping without making unfounded assumptions about search or content behavior.
+
+---
+
+_**Assistant**_
+
+I'll (1) update the todo list to mark ICP regeneration as in-progress, (2) generate new personas following the simplified prompt specifications, and (3) save to `seo_reports/step02_ICP.md` with clear problem-solution connections. I'll focus on the core demographics, pain points, and goals without making search behavior assumptions. Proceeding to update todos and generate the simplified ICP. Progress update — I completed the simplified Step-2 ICP generation and committed the file.
+
+What I created and committed
+- `step02_ICP.md` — 3 focused personas following the simplified prompt:
+  - **"דורית" (Primary Family Caregiver)** — Adult child managing parent's care, ages 45-60
+  - **"יוסף" (Elderly Policyholder)** — Direct policyholder, ages 70-85, budget-conscious
+  - **"רחל" (Healthcare Professional/Referrer)** — Medical professional making referrals, ages 30-55
+
+Key differences from detailed version
+- **Focused scope:** Demographics, pain points, goals only (no search behavior assumptions)
+- **Clear problem-solution connections:** Each persona directly maps to business strengths
+- **Step 3 ready:** Provides customer context for journey mapping without unfounded assumptions
+- **Business goal alignment:** Addresses lead generation and SEO foundation goals
+
+Repository status
+- Committed with message: "feat(step2): generate simplified ICP personas focused on demographics, pain points, and goals for Step 3 journey mapping"
+- File: `step02_ICP.md` (112 lines, concise persona profiles)
+
+File comparison
+- **Previous:** `personas.md` (detailed with search behavior, content preferences)
+- **New:** `step02_ICP.md` (simplified, focused on core customer insights)
+
+Next steps available
+- Validate Step-3 Stage-1 facts
+- Run Step-3 Stage-2 generation (strict)
+- Re-run Step-4 keyword discovery (seeded)
+- Merge content titles into Step-3 v2
+- Re-run Step-6 semantic clustering
+- Scaffold tactical pages
+
+Which todo should I tackle next, or do you want to review the simplified ICP first?
+
+---
+
+_**User (2025-09-12 15:41Z)**_
+
+**You are a Market Strategist with expertise in customer research and persona development. Your goal is to define precise ideal customer profiles that will guide content strategy and SEO targeting.**
+
+**Task:** Using the business profile from Step 1, develop detailed ideal customer profiles. For each customer segment, define:
+
+**Input Context from Step 1:**
+- Reference the specific industry, services, and business positioning identified
+- Consider the geographic focus, language, and target market scope
+- Account for business goals
+
+**Demographics:**
+- Age, location, income level (as relevant to the business context)
+- Family/business status aligned with service offerings
+- Language preferences for the target market
+
+**Pain Points:**
+- Specific problems they face that connect to Step 1 services
+- Challenges that the business is positioned to solve
+
+**Goals & Motivations:**
+- What they're trying to achieve through these services
+- Desired outcomes from their perspective
+
+**Decision-Making Context:**
+- How do they typically approach solving these types of problems?
+- What is their urgency level when facing these issues?
+- Do they research extensively or make quick decisions?
+- Who else influences their decision-making process?
+
+**Key Questions They Ask:**
+- What specific questions do they have about their situation?
+- What concerns or doubts do they need addressed?
+- What information do they seek when facing these problems?
+
+**Output Format:** Create 2-3 detailed persona documents with names, realistic backgrounds, and clear problem-solution connections including:
+- Decision-making approach and urgency levels
+- Specific questions they would ask about their situation
+- File output: seo_reports/content_strategy_execution/step02_ICP.md
+
+**Purpose:** These personas provide customer context for journey mapping with enough decision-making and question context to inform effective keyword discovery.
+
+---
+
+_**Assistant**_
+
+I'll (1) update the todo list to mark the enhanced ICP generation as in-progress, (2) check the current Step 2 prompt contents, (3) generate detailed personas with decision-making context and key questions, and (4) save to the specified path `seo_reports/content_strategy_execution/step02_ICP.md`. I'll create the directory if needed. Proceeding to update todos and read the current prompt. Perfect! I can see the updated Step 2 prompt includes the enhanced decision-making context and key questions requirements. Now I'll create the enhanced ICP personas based on Moshe Tabo's nursing care insurance law business, incorporating the decision-making framework and specific questions these personas would ask. Now I'll commit the enhanced ICP personas and mark the task as completed: Perfect! I've successfully generated enhanced ICP personas for עו״ד משה תבו's nursing care insurance law practice. Here's what I created:
+
+## **Enhanced ICP Personas Generated** ✅
+
+**Created:** `step02_ICP.md` (187 lines)
+
+### **Three Detailed Personas:**
+
+1. **דורית כהן (Dorit Cohen) - המטפלת המשפחתית** 
+   - 52-year-old family caregiver for mother with Alzheimer's
+   - High urgency, research-oriented but time-constrained
+   - Key questions: "למה חברת הביטוח דחתה את התביעה?" (Why did insurance reject the claim?)
+
+2. **יוסף לוי (Yosef Levy) - המבוטח הקשיש**
+   - 74-year-old stroke survivor, limited mobility
+   - Cautious decision-maker, traditional research methods
+   - Key questions: "כמה שנים שילמתי פרמיות ביטוח וכעת הם לא רוצים לשלם?" (How many years did I pay premiums and now they won't pay?)
+
+3. **ד״ר רחל פרידמן (Dr. Rachel Friedman) - המפנה המקצועית**
+   - 43-year-old hospital social worker, professional referrer
+   - Analytical approach, evaluates based on track record
+   - Key questions: "איזה אחוז הצלחה יש לעורך הדין הזה?" (What success rate does this lawyer have?)
+
+### **Enhanced Framework Includes:**
+- **Decision-making context** (approach, urgency, research style, influencers)
+- **Specific Hebrew questions** each persona asks
+- **Cross-persona insights** for content strategy
+- **SEO targeting priorities** based on persona needs
+
+### **Next Steps Available:**
+- **Merge content titles into Step-3 v2** (integrate existing journey content)
+- **Validate Step-3 Stage-1 facts** (check required provenance fields)
+- **Run Step-3 Stage-2 generation** (strict journey mapping)
+
+Which todo should I tackle next?
+
+---
+
+_**User (2025-09-12 15:44Z)**_
+
+
+**You are a Journey Designer focused on mapping customer paths to purchase. Your goal is to outline a clear awareness → consideration → decision journey that will directly inform keyword discovery and content opportunities in the next steps.**
+
+**Task:** Using the ICPs from Step 2, map a simplified three-stage customer journey that identifies the search queries and content needs at each stage:
+
+**Input Context from Step 2:**
+- Reference the specific demographics, pain points, and goals of each ICP
+- Consider their decision-making approach and urgency levels
+- Use the key questions they ask about their situation
+- Account for their language preferences and formality levels
+
+**Awareness Stage:**
+- What initial problems or pain points trigger their need? (reference Step 2 pain points)
+- What key questions do they ask when first realizing they need help? (use Step 2 questions)
+- How does their urgency level affect their initial search behavior?
+- What search terms would they use at this early stage?
+
+**Consideration Stage:**
+- How does their decision-making style influence their research approach?
+- What specific concerns from Step 2 need to be addressed?
+- What information do they need to evaluate options?
+- What search queries do they use when actively comparing solutions?
+
+**Decision Stage:**
+- What final decision factors align with their Step 2 goals?
+- How does urgency impact their choice timeline?
+- What last concerns need addressing before they hire someone?
+- What search terms indicate they're ready to take action?
+
+**Journey Considerations:**
+- Tailor search queries to match each ICP's language level and urgency
+- Consider emotional state progression through each stage
+- Account for decision triggers that move them between stages
+- Reflect cultural and demographic factors from Step 2
+
+**Critical Focus:** For each stage, identify 3-5 specific example search queries that your ideal customers would actually type into Google, ensuring queries reflect the language, urgency, and sophistication level of your ICPs.
+
+**Output Format:** Create a journey map for each ICP showing:
+- Customer mindset and emotional state at each stage
+- 3-5 realistic search query examples per stage
+- Content needs that address stage-specific concerns
+- Decision triggers that move them to the next stage
+- Urgency indicators and timeline expectations
+- File output: seo_reports/content_strategy_execution/step3_customer_journey.md
+
+**Purpose:** This journey map will directly feed into keyword research by providing real customer search scenarios that reflect actual ICP behavior, urgency, and language patterns.
+
+---
+
+_**Assistant**_
+
+I'll update the todo list to mark Step 3 customer journey generation as in-progress, then create detailed customer journey maps for each of our 3 personas using their specific characteristics from Step 2. Now I'll create the detailed customer journey maps using the personas from Step 2, incorporating their specific decision-making styles, urgency levels, and language patterns: Now I'll commit the customer journey maps and mark the task as completed: Perfect! I've successfully created comprehensive customer journey maps for עו״ד משה תבו's nursing care insurance law practice. Here's what I generated:
+
+## **Customer Journey Maps Created** ✅
+
+**Created:** `step3_customer_journey.md` (357 lines)
+
+### **Three Detailed Journey Maps:**
+
+#### **1. דורית כהן (Family Caregiver)** - High Urgency, Emotional Searches
+- **Awareness:** `למה חברת ביטוח דוחה תביעה לסיעוד` (why does insurance reject nursing care claim)
+- **Consideration:** `עורך דין ביטוח סיעוד המלצות` (nursing care insurance lawyer recommendations)  
+- **Decision:** `עורך דין משה תבו ביקורות` (lawyer Moshe Tabo reviews)
+- **Timeline:** 2-3 weeks decision cycle
+
+#### **2. יוסף לוי (Elderly Policyholder)** - Cautious, Formal Questions
+- **Awareness:** `מה זה בדיקת תפקוד ביטוח סיעוד` (what is functional assessment nursing care insurance)
+- **Consideration:** `עורך דין מוסמך ביטוח סיעוד רישיון` (licensed nursing care insurance lawyer)
+- **Decision:** `להתקשר לעורך דין ביטוח סיעוד טלפון` (call nursing care insurance lawyer phone)
+- **Timeline:** 3-4 weeks, prefers phone consultation
+
+#### **3. ד״ר רחל פרידמן (Professional Referrer)** - Analytical, Medical-Legal Terms
+- **Awareness:** `עורך דין מומחה ביטוח סיעוד בית חולים` (specialist nursing care insurance lawyer hospital)
+- **Consideration:** `אחוזי הצלחה ביטוח סיעוד` (nursing care insurance success rates)
+- **Decision:** `יצירת קשר מקצועי עורך דין ביטוח סיעוד` (professional contact nursing care insurance lawyer)
+- **Timeline:** Several months evaluation, then long-term partnership
+
+### **Key Insights Generated:**
+
+**45 Realistic Hebrew Search Queries** across all personas and stages, reflecting:
+- **Language sophistication** levels (conversational → formal → professional)
+- **Emotional urgency** indicators (`מה לעשות`, `דחוף`, `מיד`)
+- **Intent progression** (problem → evaluation → action)
+
+**Cross-Journey Analysis:**
+- **Search pattern insights** by persona type
+- **Content strategy implications** (problem explanation → evaluation guides → contact process)
+- **SEO priority recommendations** with high-volume awareness vs high-intent decision keywords
+
+### **Ready for Next Steps:**
+This journey map provides the foundation for keyword research with 45 realistic search scenarios that reflect actual customer language patterns, urgency levels, and decision-making approaches.
+
+**What should I tackle next from the todo list?**
+
+---
+
+_**User (2025-09-12 15:45Z)**_
+
+commit all changes
+
+---
+
+_**Assistant**_
+
+I'll check if there are any uncommitted changes and commit them if needed. 
+
+---
+
