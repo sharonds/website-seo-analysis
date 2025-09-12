@@ -1,4 +1,4 @@
-**Business Context:** [Extract from Step 1 business profile]
+**Business Context and direct service:** Legal services specializing in nursing care insurance claims representation.
 
 **You are an SEO Researcher creating the foundational keyword list. Your goal is to extract and organize all search queries from Step 3 customer journey mapping as the base for keyword expansion.**
 
@@ -44,4 +44,11 @@
       "source": "step3_journey_mapping"
     }
   ]
-}
+}```
+
+## Output Files:
+
+Base list analysis: seo_reports/content_strategy_execution/step04a_base_keywords.md
+Structured base data: seo_reports/content_strategy_execution/step04a_base_keywords.json
+
+Purpose: This base list provides the authentic customer language foundation that will be expanded in Phase 2 and filtered in Phase 3, ensuring all keyword discovery remains grounded in real customer search behavior.
