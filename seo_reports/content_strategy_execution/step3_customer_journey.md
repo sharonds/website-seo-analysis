@@ -111,58 +111,6 @@ Generated using updated Step 2 ICP profiles (Dorit – family caregiver, Yosef �
 
 ---
 
-## Journey Map 3: ד"ר רחל פרידמן (Dr. Rachel Friedman) - המפנה המקצועית
-*The Professional Referrer – Analytical, outcome-driven, medically context-aware*
-
-### 🔍 Awareness Stage (Days 1–2)
-**Emotional State:** Professional concern, seeking specialized legal resource  
-**Mindset:** "אני צריכה עורך דין ייעודי לקבלת זכויות למטופלים המורכבים שלנו"  
-**Primary Triggers:** Multiple complex denials, lack of reliable referral framework, prior poor generalist outcomes  
-**Decision Trigger → Consideration:** Identifies proven specialist with medical-legal competence
-
-**Search Query Examples:**  
-1. עורך דין מומחה ביטוח סיעוד בית חולים  
-2. ייעוץ משפטי ביטוח סיעוד עבור עובדים סוציאליים  
-3. התמחות משפטית ביטוח סיעוד רפואי  
-4. עורכי דין ביטוח סיעוד רשימה מקצועית  
-5. רשת הפניות משפטיות ביטוח סיעוד  
-
-**Content Needs:** Specialization credentials, hospital collaboration examples, structured referral info, policy interpretation insights, outcome summaries  
-**Urgency Indicators:** מומחה, רשימה מקצועית, הפניות  
-
-### 💭 Consideration Stage (Days 3–14)
-**Emotional State:** Analytical vetting, outcome-sensitive  
-**Mindset:** "האם הוא עומד בסטנדרט קליני ומשפטי לשיתוף פעולה מתמשך?"  
-**Research Approach:** Evaluates outcome metrics, responsiveness, referral workflow clarity  
-**Decision Trigger → Decision:** Confirmation of structured referral and feedback protocol
-
-**Search Query Examples:**  
-1. עורך דין משה תבו אחוזי הצלחה ביטוח סיעוד  
-2. המלצות רופאים עורכי דין ביטוח סיעוד  
-3. שיתוף פעולה בית חולים עורך דין ביטוח סיעוד  
-4. ניסיון עם מקרים מורכבים ביטוח סיעוד  
-5. הדרכות מקצועיות ביטוח סיעוד לצוות רפואי  
-
-**Content Needs:** Case study summaries (anonymized), medical liaison process, referral intake form, professional testimonials, CME/education offerings  
-**Urgency Indicators:** אחוזי הצלחה, שיתוף פעולה, הדרכות  
-
-### ✅ Decision Stage (Days 15–21)
-**Emotional State:** Professionally confident, structured relationship focus  
-**Mindset:** "אפשר להתחיל לבסס ערוץ הפניות מקצועי"  
-**Final Decision Factors:** Formal referral protocol, case tracking transparency, educational support, reliability under volume  
-**Decision Trigger:** Successful pilot referral + responsive feedback loop
-
-**Search Query Examples:**  
-1. יצירת קשר מקצועי עורך דין ביטוח סיעוד  
-2. פרוטוקול הפניות משפטיות ביטוח סיעוד  
-3. הרצאות והדרכות ביטוח סיעוד לצוות רפואי  
-4. שיתוף פעולה מתמשך עורך דין בית חולים  
-5. מעקב תיקים משפטיים ביטוח סיעוד  
-
-**Content Needs:** Referral partner page, SLA outline, case update cadence, educational portal, multi-channel contact (email + phone)  
-**Urgency Indicators:** פרוטוקול, מעקב, שיתוף פעולה  
-
----
 
 ## Cross-Journey Synthesis
 **Shared Early Signals:** Confusion about rejection/process + search for legitimacy  
