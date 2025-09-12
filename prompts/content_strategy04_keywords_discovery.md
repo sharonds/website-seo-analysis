@@ -1,5 +1,7 @@
 ## Step 4 — Keyword Discovery
 
+**Business Context and direct service:** Legal services specializing in nursing care insurance claims representation.
+
 **You are an SEO Researcher specialized in keyword discovery using multiple data sources and tools. Your goal is to build a comprehensive list of potential keywords that will be analyzed for metrics and prioritization in Step 5.**
 
 **Input Context from Step 3:**
@@ -30,10 +32,12 @@
 
 **Research Process:**
 1. Begin with customer journey search examples from Step 3
-2. Use MCP tools to gather search volume data and related keyword suggestions
-3. Expand each core concept into multiple variations
-4. Include both broad and specific terms
-5. Capture question formats and conversational queries
+2. **Filter all tool suggestions through business context:** Only include keywords that indicate need for our business context and core services
+3. Use MCP tools to gather search volume data and related keyword suggestions
+4. **Apply legal service filter:** If a keyword doesn't suggest  our business context and core services, either modify it to include legal context or exclude it
+5. Expand each  our business context and core services concept into multiple variations
+6. Include both broad and specific terms that maintain  our business context and core services
+7. Capture question formats and conversational queries about  our business context and core services
 
 **Quality Standards:**
 - Focus on keywords with clear search intent
@@ -47,8 +51,8 @@
 - Initial search intent classification (informational, commercial, transactional)
 
 **Output Files:**
-- Analysis and insights: `seo_reports/step04_keyword_discovery.md`
-- Structured keyword data: `seo_reports/step04_keywords.json`
+- Analysis and insights: `seo_reports/content_strategy_execution/step04_keyword_discovery.md`
+- Structured keyword data: `seo_reports/content_strategy_execution/step04_keywords.json`
 
 **Important:** Structure this data to be easily imported into analysis tools for Step 5 metric gathering and prioritization.
 
