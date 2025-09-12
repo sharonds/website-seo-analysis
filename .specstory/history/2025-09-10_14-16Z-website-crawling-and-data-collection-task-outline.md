@@ -4163,7 +4163,7 @@ Let me know which path you prefer, and I’ll continue.
 
 ---
 
-_**User (2025-09-12 18:57Z)**_
+_**User (2025-09-12 18:59Z)**_
 
 I have removed ד״ר רחל from the ICP why it's in the cusomter journey?
 
@@ -4171,11 +4171,122 @@ I have removed ד״ר רחל from the ICP why it's in the cusomter journey?
 
 _**Assistant**_
 
+GitHub Copilot
 
-```
+Dr. Rachel remained because Step 3 was regenerated from an earlier state (old ICP file or cached journey) before her removal. The Step 3 prompt didn’t include a validation step to cross-check active personas, so it kept all three.
 
-```
+Fix: remove her journey section and purge her queries from the base keywords file.
 
+Below are the edits.
+
+````markdown
+# Step 3: Customer Journey Maps (Updated)
+*עו״ד משה תבו - מומחה לדיני ביטוח סיעודי*
+
+Generated using updated Step 2 ICP profiles (Dorit – family caregiver, Yosef – elderly policyholder). Removed former referrer persona (ד״ר רחל) per revised ICP scope.
+
+---
+
+## Journey Map 1: דורית כהן (Dorit Cohen) - המטפלת המשפחתית
+...existing content for Dorit unchanged...
+... (keep Awareness / Consideration / Decision sections exactly as before) ...
+
+---
+
+## Journey Map 2: יוסף לוי (Yosef Levy) - המבוטח הקשיש
+...existing content for Yosef unchanged...
+... (keep Awareness / Consideration / Decision sections exactly as before) ...
+
+---
+
+## Cross-Journey Synthesis (2 Personas Only)
+**Shared Early Signals:** בלבול לגבי דחייה / תהליך + צורך בהבהרת זכויות  
+**Differences:** דורית = דחיפות רגשית וזמן מוגבל; יוסף = קצב איטי, צורך בביטחון ובהסברים פורמליים  
+**Stage Triggers:**  
+- Awareness → Consideration: דורית מזהה שאולי דחייה הפיכה; יוסף מבין שהמורכבות דורשת עו"ד  
+- Consideration → Decision: אמון + שקיפות על עלויות + ציפיות תהליך  
+
+**Query Totals:**  
+- Total queries: 30 (15 each)  
+- Stage distribution: Awareness 10 / Consideration 10 / Decision 10  
+- Intent (approx.): Informational 20 / Commercial 6 / Transactional 4  
+
+**Inputs for Step 4 Expansion:**  
+- Keep linguistic register split (שפה שיחית לעומת פורמלית)  
+- Emphasize hire/representation modifiers (עורך דין, ייעוץ, פגישה, התקשרות)  
+- Add localized variants (ערים רלוונטיות) only in expansion phase (not retrofitted here)
+
+*Authoritative seeds now limited to two personas; discard prior referrer queries.*
+````
+
+````json
+{
+  "base_keyword_summary": {
+    "total_queries_extracted": 30,
+    "personas_covered": 2,
+    "journey_stages": ["awareness", "consideration", "decision"],
+    "source": "step3_customer_journey (revised – referrer persona removed)"
+  },
+  "base_keywords": [
+    // Dorit (15 queries, 5 per stage)
+    { "keyword": "למה חברת ביטוח דוחה תביעה לסיעוד", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "high", "language_level": "conversational", "source": "step3_journey_mapping" },
+    { "keyword": "ביטוח סיעוד נדחה מה לעשות", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "high", "language_level": "conversational", "source": "step3_journey_mapping" },
+    { "keyword": "תביעת ביטוח סיעוד דחייה", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping" },
+    { "keyword": "זכאות לביטוח סיעוד אלצהיימר", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping" },
+    { "keyword": "איך יודעים אם זכאי לביטוח סיעוד", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping" },
+
+    { "keyword": "עורך דין ביטוח סיעוד המלצות", "persona": "דורית", "journey_stage": "consideration", "intent": "commercial", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping" },
+    { "keyword": "כמה עולה עורך דין לביטוח סיעוד", "persona": "דורית", "journey_stage": "consideration", "intent": "commercial", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping" },
+    { "keyword": "אחוז הצלחה תביעות ביטוח סיעוד", "persona": "דורית", "journey_stage": "consideration", "intent": "commercial", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping" },
+    { "keyword": "עורך דין ביטוח סיעוד ביקורות", "persona": "דורית", "journey_stage": "consideration", "intent": "commercial", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping" },
+    { "keyword": "זמן תהליך תביעת ביטוח סיעוד", "persona": "דורית", "journey_stage": "consideration", "intent": "informational", "urgency": "low", "language_level": "conversational", "source": "step3_journey_mapping" },
+
+    { "keyword": "עורך דין משה תבו ביקורות
+
+---
+
+_**User (2025-09-12 19:01Z)**_
+
+commit all changes
+
+---
+
+_**Assistant**_
+
+I'll commit the changes that remove Dr. Rachel from both the customer journey and base keywords files. Perfect! All changes have been committed successfully. The commit includes:
+
+## What Was Committed:
+
+1. **ICP Scope Reduction**: Updated `step02_ICP.md` to focus on 2 core personas
+2. **Journey Map Cleanup**: Removed Dr. Rachel from `step3_customer_journey.md` 
+3. **File Reorganization**: Moved previous analysis files to `temp/` folder
+4. **Base Keywords**: Moved `step04a_base_keywords.json` to temp (needs regeneration for 2 personas)
+
+## Current State:
+
+- **Active Personas**: דורית (family caregiver) + יוסף (elderly policyholder)
+- **Total Journey Queries**: 30 (down from 45)
+- **Clean Workspace**: Ready for focused 2-persona keyword discovery
+
+## Next Steps Available:
+
+1. **Regenerate Step 4a**: Create new base keywords file with only Dorit + Yosef queries
+2. **Proceed with Step 4**: Begin controlled keyword expansion using the 2-persona foundation
+3. **Archive Management**: The old 3-persona work is preserved in `temp/` if needed later
+
+The workspace is now properly aligned with your 2-persona ICP scope. Would you like me to regenerate the Step 4a base keywords file with the corrected 30 queries, or proceed with another step?
+
+---
+
+_**User (2025-09-12 19:02Z)**_
+
+commit all changes
+
+---
+
+_**Assistant**_
+
+I'll check what changes have been made and commit them. 
 
 ---
 
