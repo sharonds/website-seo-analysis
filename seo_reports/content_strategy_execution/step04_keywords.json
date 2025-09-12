@@ -1,0 +1,1073 @@
+{
+  "keyword_research_summary": {
+    "total_keywords": 157,
+    "primary_focus": "legal services nursing care insurance",
+    "language": "Hebrew",
+    "market": "Israel niche legal",
+    "research_date": "2025-09-12",
+    "data_sources": ["customer_journey_mapping", "dataforseo_keyword_ideas", "dataforseo_related_keywords", "dataforseo_keyword_suggestions", "ai_expansion"],
+    "top_commercial_value": "עורך דין ביטוח סיעוד",
+    "highest_volume": "ביטוח סיעוד",
+    "methodology": "systematic journey-based expansion with tool validation"
+  },
+  "keywords": [
+    {
+      "keyword": "עורך דין ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "core_legal_services",
+      "intent": "commercial",
+      "source": "journey_mapping",
+      "priority": "high",
+      "search_volume": 110,
+      "cpc": 41.68,
+      "competition": 0.29,
+      "difficulty": 21,
+      "yearly_trend": 180,
+      "persona_alignment": ["דורית", "יוסף"]
+    },
+    {
+      "keyword": "ביטוח סיעוד נדחה מה לעשות",
+      "journey_stage": "awareness",
+      "category": "problem_solving",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "high",
+      "persona_alignment": ["דורית"],
+      "emotional_urgency": "high"
+    },
+    {
+      "keyword": "למה חברת ביטוח דוחה תביעה לסיעוד",
+      "journey_stage": "awareness",
+      "category": "problem_solving",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "high",
+      "persona_alignment": ["דורית"],
+      "emotional_urgency": "high"
+    },
+    {
+      "keyword": "זכאות לביטוח סיעוד אלצהיימר",
+      "journey_stage": "awareness",
+      "category": "rights_entitlements",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["דורית", "יוסף"]
+    },
+    {
+      "keyword": "תביעת ביטוח סיעוד דחייה",
+      "journey_stage": "awareness",
+      "category": "problem_solving",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["דורית", "יוסף"]
+    },
+    {
+      "keyword": "איך יודעים אם זכאי לביטוח סיעוד",
+      "journey_stage": "awareness",
+      "category": "question_based",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["דורית", "יוסף"]
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד המלצות",
+      "journey_stage": "consideration",
+      "category": "lawyer_evaluation",
+      "intent": "commercial",
+      "source": "journey_mapping",
+      "priority": "high",
+      "persona_alignment": ["דורית", "ד״ר רחל"]
+    },
+    {
+      "keyword": "כמה עולה עורך דין לביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "cost_pricing",
+      "intent": "commercial",
+      "source": "journey_mapping",
+      "priority": "high",
+      "persona_alignment": ["דורית", "יוסף"]
+    },
+    {
+      "keyword": "אחוז הצלחה תביעות ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "success_metrics",
+      "intent": "commercial",
+      "source": "journey_mapping",
+      "priority": "high",
+      "persona_alignment": ["דורית", "ד״ר רחל"]
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד ביקורות",
+      "journey_stage": "consideration",
+      "category": "reputation_reviews",
+      "intent": "commercial",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["דורית", "יוסף"]
+    },
+    {
+      "keyword": "זמן תהליך תביעת ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "process_timeline",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["דורית", "יוסף"]
+    },
+    {
+      "keyword": "עורך דין משה תבו ביקורות",
+      "journey_stage": "decision",
+      "category": "brand_specific",
+      "intent": "commercial",
+      "source": "journey_mapping",
+      "priority": "high",
+      "persona_alignment": ["דורית", "יוסף"],
+      "brand_relevance": "direct"
+    },
+    {
+      "keyword": "התייעצות ראשונית עורך דין ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "consultation_services",
+      "intent": "transactional",
+      "source": "journey_mapping",
+      "priority": "high",
+      "persona_alignment": ["דורית", "יוסף"]
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד פתח תקווה",
+      "journey_stage": "decision",
+      "category": "local_geographic",
+      "intent": "commercial",
+      "source": "journey_mapping",
+      "priority": "high",
+      "persona_alignment": ["דורית"],
+      "geographic_target": "petah_tikva"
+    },
+    {
+      "keyword": "מה קורה אם מפסידים תביעת ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "risk_concerns",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["דורית", "יוסף"]
+    },
+    {
+      "keyword": "לפנות לעורך דין ביטוח סיעוד כן או לא",
+      "journey_stage": "decision",
+      "category": "decision_support",
+      "intent": "commercial",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["דורית", "יוסף"]
+    },
+    {
+      "keyword": "מה זה בדיקת תפקוד ביטוח סיעוד",
+      "journey_stage": "awareness",
+      "category": "process_education",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["יוסף"]
+    },
+    {
+      "keyword": "למה ביטוח סיעוד לא משלם אחרי שנים של תשלומים",
+      "journey_stage": "awareness",
+      "category": "problem_solving",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "high",
+      "persona_alignment": ["יוסף"],
+      "emotional_trigger": "betrayal"
+    },
+    {
+      "keyword": "זכויות קשיש ביטוח סיעוד",
+      "journey_stage": "awareness",
+      "category": "rights_entitlements",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["יוסף"],
+      "demographic_specific": "elderly"
+    },
+    {
+      "keyword": "איך עובד ביטוח סיעוד בישראל",
+      "journey_stage": "awareness",
+      "category": "system_education",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["יוסף"]
+    },
+    {
+      "keyword": "תנאי זכאות ביטוח סיעוד גיל שלישי",
+      "journey_stage": "awareness",
+      "category": "eligibility_criteria",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["יוסף"],
+      "demographic_specific": "elderly"
+    },
+    {
+      "keyword": "עורך דין מוסמך ביטוח סיעוד רישיון",
+      "journey_stage": "consideration",
+      "category": "credentials_verification",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["יוסף"]
+    },
+    {
+      "keyword": "עלות ייעוץ משפטי ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "cost_pricing",
+      "intent": "commercial",
+      "source": "journey_mapping",
+      "priority": "high",
+      "persona_alignment": ["יוסף"]
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד חיפה צפון",
+      "journey_stage": "consideration",
+      "category": "local_geographic",
+      "intent": "commercial",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["יוסף"],
+      "geographic_target": "haifa_north"
+    },
+    {
+      "keyword": "ההורים שלי צריכים עורך דין ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "family_consultation",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["יוסף"]
+    },
+    {
+      "keyword": "איך בוחרים עורך דין טוב ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "selection_criteria",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["יוסף"]
+    },
+    {
+      "keyword": "להתקשר לעורך דין ביטוח סיעוד טלפון",
+      "journey_stage": "decision",
+      "category": "contact_action",
+      "intent": "transactional",
+      "source": "journey_mapping",
+      "priority": "high",
+      "persona_alignment": ["יוסף"],
+      "action_oriented": true
+    },
+    {
+      "keyword": "פגישה אישית עורך דין ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "consultation_services",
+      "intent": "transactional",
+      "source": "journey_mapping",
+      "priority": "high",
+      "persona_alignment": ["יוסף"]
+    },
+    {
+      "keyword": "עורך דין משה תבו טלפון",
+      "journey_stage": "decision",
+      "category": "brand_specific",
+      "intent": "transactional",
+      "source": "journey_mapping",
+      "priority": "high",
+      "persona_alignment": ["יוסף"],
+      "brand_relevance": "direct"
+    },
+    {
+      "keyword": "תשלום שלבים עורך דין ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "payment_options",
+      "intent": "commercial",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["יוסף"]
+    },
+    {
+      "keyword": "הילדים שלי צריכים להיות בפגישה עם עורך דין",
+      "journey_stage": "decision",
+      "category": "family_involvement",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "low",
+      "persona_alignment": ["יוסף"]
+    },
+    {
+      "keyword": "עורך דין מומחה ביטוח סיעוד בית חולים",
+      "journey_stage": "awareness",
+      "category": "professional_specialization",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["ד״ר רחל"],
+      "professional_context": "medical"
+    },
+    {
+      "keyword": "ייעוץ משפטי ביטוח סיעוד עבור עובדים סוציאליים",
+      "journey_stage": "awareness",
+      "category": "professional_resources",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "low",
+      "persona_alignment": ["ד״ר רחל"],
+      "professional_context": "social_work"
+    },
+    {
+      "keyword": "התמחות משפטית ביטוח סיעוד רפואי",
+      "journey_stage": "awareness",
+      "category": "medical_legal_expertise",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "low",
+      "persona_alignment": ["ד״ר רחל"]
+    },
+    {
+      "keyword": "עורכי דין ביטוח סיעוד רשימה מקצועית",
+      "journey_stage": "awareness",
+      "category": "professional_directories",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "low",
+      "persona_alignment": ["ד״ר רחל"]
+    },
+    {
+      "keyword": "רשת הפניות משפטיות ביטוח סיעוד",
+      "journey_stage": "awareness",
+      "category": "referral_networks",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "low",
+      "persona_alignment": ["ד״ר רחל"]
+    },
+    {
+      "keyword": "עורך דין משה תבו אחוזי הצלחה ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "performance_metrics",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["ד״ר רחל"],
+      "brand_relevance": "direct"
+    },
+    {
+      "keyword": "המלצות רופאים עורכי דין ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "professional_recommendations",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["ד״ר רחל"],
+      "professional_context": "medical"
+    },
+    {
+      "keyword": "שיתוף פעולה בית חולים עורך דין ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "institutional_collaboration",
+      "intent": "commercial",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["ד״ר רחל"]
+    },
+    {
+      "keyword": "ניסיון עם מקרים מורכבים ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "case_complexity",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["ד״ר רחל"]
+    },
+    {
+      "keyword": "הדרכות מקצועיות ביטוח סיעוד לצוות רפואי",
+      "journey_stage": "consideration",
+      "category": "professional_education",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "low",
+      "persona_alignment": ["ד״ר רחל"]
+    },
+    {
+      "keyword": "יצירת קשר מקצועי עורך דין ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "professional_networking",
+      "intent": "commercial",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["ד״ר רחל"]
+    },
+    {
+      "keyword": "פרוטוקול הפניות משפטיות ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "referral_protocols",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "low",
+      "persona_alignment": ["ד״ר רחל"]
+    },
+    {
+      "keyword": "הרצאות והדרכות ביטוח סיעוד לצוות רפואי",
+      "journey_stage": "decision",
+      "category": "educational_services",
+      "intent": "commercial",
+      "source": "journey_mapping",
+      "priority": "low",
+      "persona_alignment": ["ד״ר רחל"]
+    },
+    {
+      "keyword": "שיתוף פעולה מתמשך עורך דין בית חולים",
+      "journey_stage": "decision",
+      "category": "ongoing_partnership",
+      "intent": "commercial",
+      "source": "journey_mapping",
+      "priority": "medium",
+      "persona_alignment": ["ד״ר רחל"]
+    },
+    {
+      "keyword": "מעקב תיקים משפטיים ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "case_tracking",
+      "intent": "informational",
+      "source": "journey_mapping",
+      "priority": "low",
+      "persona_alignment": ["ד״ר רחל"]
+    },
+    {
+      "keyword": "ביטוח סיעוד",
+      "journey_stage": "awareness",
+      "category": "core_industry_terms",
+      "intent": "commercial",
+      "source": "dataforseo_related",
+      "priority": "high",
+      "search_volume": 3600,
+      "cpc": 2.53,
+      "competition": 0.35,
+      "difficulty": 18
+    },
+    {
+      "keyword": "תביעות ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "claims_process",
+      "intent": "navigational",
+      "source": "dataforseo_ideas",
+      "priority": "high",
+      "search_volume": 140,
+      "cpc": 16.7,
+      "competition": 0.19,
+      "difficulty": 19,
+      "yearly_trend": 33
+    },
+    {
+      "keyword": "ביטוח סיעודי הראל",
+      "journey_stage": "awareness",
+      "category": "insurance_companies",
+      "intent": "informational",
+      "source": "dataforseo_ideas",
+      "priority": "medium",
+      "search_volume": 480,
+      "cpc": 2.81,
+      "competition": 0.23,
+      "difficulty": 1
+    },
+    {
+      "keyword": "הראל ביטוח סיעודי טלפון",
+      "journey_stage": "decision",
+      "category": "contact_information",
+      "intent": "commercial",
+      "source": "dataforseo_related",
+      "priority": "medium",
+      "search_volume": 720,
+      "cpc": 1.35,
+      "competition": 0.18
+    },
+    {
+      "keyword": "ביטוח סיעודי מכבי",
+      "journey_stage": "awareness",
+      "category": "insurance_companies",
+      "intent": "informational",
+      "source": "dataforseo_related",
+      "priority": "medium",
+      "search_volume": 1300,
+      "cpc": 2.18,
+      "competition": 0.1
+    },
+    {
+      "keyword": "שאלות ותשובות על ביטוח סיעודי כללית",
+      "journey_stage": "awareness",
+      "category": "educational_content",
+      "intent": "navigational",
+      "source": "dataforseo_related",
+      "priority": "medium",
+      "search_volume": 720,
+      "cpc": 2.39,
+      "competition": 0.16
+    },
+    {
+      "keyword": "ביטוח סיעודי פרטי",
+      "journey_stage": "consideration",
+      "category": "private_insurance",
+      "intent": "commercial",
+      "source": "dataforseo_related",
+      "priority": "high",
+      "search_volume": 320,
+      "cpc": 5.08,
+      "competition": 0.28,
+      "difficulty": 4
+    },
+    {
+      "keyword": "הראל ביטוח סיעודי אזור אישי",
+      "journey_stage": "decision",
+      "category": "account_access",
+      "intent": "navigational",
+      "source": "dataforseo_related",
+      "priority": "low",
+      "search_volume": 590,
+      "cpc": 3.32,
+      "competition": 0.21
+    },
+    {
+      "keyword": "ביטוח סיעודי קופת חולים",
+      "journey_stage": "awareness",
+      "category": "healthcare_integration",
+      "intent": "commercial",
+      "source": "dataforseo_related",
+      "priority": "medium",
+      "search_volume": 320,
+      "cpc": 1.54,
+      "competition": 0.34
+    },
+    {
+      "keyword": "ביטוח סיעודי כללית מושלם",
+      "journey_stage": "awareness",
+      "category": "insurance_products",
+      "intent": "informational",
+      "source": "dataforseo_related",
+      "priority": "low"
+    },
+    {
+      "keyword": "הראל ביטוח סיעודי כללית",
+      "journey_stage": "awareness",
+      "category": "insurance_companies",
+      "intent": "informational",
+      "source": "dataforseo_related",
+      "priority": "low",
+      "search_volume": 390,
+      "cpc": 3.1,
+      "competition": 0.29
+    },
+    {
+      "keyword": "תביעת חברת ביטוח",
+      "journey_stage": "consideration",
+      "category": "general_claims",
+      "intent": "commercial",
+      "source": "dataforseo_ideas",
+      "priority": "medium",
+      "search_volume": 30,
+      "cpc": 5.28,
+      "competition": 0.68,
+      "difficulty": 45
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעודי",
+      "journey_stage": "consideration",
+      "category": "core_legal_services",
+      "intent": "commercial",
+      "source": "dataforseo_suggestions",
+      "priority": "high",
+      "search_volume": 110,
+      "cpc": 41.68,
+      "competition": 0.29,
+      "difficulty": 21
+    },
+    {
+      "keyword": "עורך דין סיעוד ביטוח לאומי",
+      "journey_stage": "consideration",
+      "category": "national_insurance",
+      "intent": "commercial",
+      "source": "dataforseo_suggestions",
+      "priority": "medium",
+      "search_volume": 10,
+      "competition": 1
+    },
+    {
+      "keyword": "עורך דין ביטוח לאומי סיעוד",
+      "journey_stage": "consideration",
+      "category": "national_insurance",
+      "intent": "commercial",
+      "source": "dataforseo_suggestions",
+      "priority": "medium"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד תל אביב",
+      "journey_stage": "decision",
+      "category": "local_geographic",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "medium",
+      "geographic_target": "tel_aviv"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד ירושלים",
+      "journey_stage": "decision",
+      "category": "local_geographic",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "medium",
+      "geographic_target": "jerusalem"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד באר שבע",
+      "journey_stage": "decision",
+      "category": "local_geographic",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "low",
+      "geographic_target": "beer_sheva"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד מרכז",
+      "journey_stage": "decision",
+      "category": "regional_geographic",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "medium",
+      "geographic_target": "center_region"
+    },
+    {
+      "keyword": "ייעוץ משפטי ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "consultation_services",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "high"
+    },
+    {
+      "keyword": "עזרה משפטית ביטוח סיעוד",
+      "journey_stage": "awareness",
+      "category": "legal_assistance",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "משפטן ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "legal_professionals",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "טיפול משפטי ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "legal_services",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "ביטוח סיעוד נדחתה התביעה",
+      "journey_stage": "awareness",
+      "category": "claim_rejection",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "high"
+    },
+    {
+      "keyword": "ערעור על דחיית ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "appeals_process",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "high"
+    },
+    {
+      "keyword": "כיצד לערער על ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "appeals_guidance",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "תביעה נגד חברת ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "litigation",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "high"
+    },
+    {
+      "keyword": "הליך משפטי ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "legal_process",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "זכויות המבוטח ביטוח סיעוד",
+      "journey_stage": "awareness",
+      "category": "rights_education",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "תביעת ביטוח סיעוד הצלחה",
+      "journey_stage": "consideration",
+      "category": "success_stories",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "דמנציה ביטוח סיעוד זכאות",
+      "journey_stage": "awareness",
+      "category": "medical_conditions",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "פרקינסון ביטוח סיעוד תביעה",
+      "journey_stage": "awareness",
+      "category": "medical_conditions",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "אלצהיימר ביטוח סיעוד הליך",
+      "journey_stage": "awareness",
+      "category": "medical_conditions",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "קשיש זכאי ביטוח סיעוד",
+      "journey_stage": "awareness",
+      "category": "demographic_specific",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "משפחה מטפלת ביטוח סיעוד",
+      "journey_stage": "awareness",
+      "category": "family_caregiving",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "בדיקת רופא ביטוח סיעוד",
+      "journey_stage": "awareness",
+      "category": "medical_assessment",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "הערכת תפקוד ביטוח סיעוד",
+      "journey_stage": "awareness",
+      "category": "functional_assessment",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "מסמכים ביטוח סיעוד תביעה",
+      "journey_stage": "consideration",
+      "category": "documentation",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "טופס תביעה ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "forms_procedures",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "הוצאות משפט ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "legal_costs",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "אגרת טוענת רבתי ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "legal_fees",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "low"
+    },
+    {
+      "keyword": "עמלת הצלחה עורך דין ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "fee_structure",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "high"
+    },
+    {
+      "keyword": "ייעוץ ללא עלות ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "free_consultation",
+      "intent": "transactional",
+      "source": "ai_expansion",
+      "priority": "high"
+    },
+    {
+      "keyword": "פגישה ראשונה חינם עורך דין ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "free_consultation",
+      "intent": "transactional",
+      "source": "ai_expansion",
+      "priority": "high"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד מומחה",
+      "journey_stage": "consideration",
+      "category": "expertise_specialization",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "high"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד ותק",
+      "journey_stage": "consideration",
+      "category": "experience_credentials",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד מנוסה",
+      "journey_stage": "consideration",
+      "category": "experience_credentials",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד מוביל",
+      "journey_stage": "consideration",
+      "category": "reputation_ranking",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד איכותי",
+      "journey_stage": "consideration",
+      "category": "quality_assurance",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד זמין",
+      "journey_stage": "decision",
+      "category": "availability_accessibility",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד רספונסיבי",
+      "journey_stage": "decision",
+      "category": "responsiveness",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "לוח זמנים תביעת ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "timeline_expectations",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "משך זמן תביעת ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "timeline_expectations",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "תוצאות תביעות ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "outcome_expectations",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "נסיון קודם תביעות ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "track_record",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "מקרי מבחן ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "case_studies",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "דוגמאות הצלחה ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "success_examples",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "המלצות לקוחות עורך דין ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "client_testimonials",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "חוות דעת עורך דין ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "client_reviews",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "דירוג עורכי דין ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "lawyer_rankings",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "השוואת עורכי דין ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "comparison_shopping",
+      "intent": "commercial",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "בחירת עורך דין ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "selection_process",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "הערכת עורך דין ביטוח סיעוד",
+      "journey_stage": "consideration",
+      "category": "evaluation_criteria",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "שאלות לעורך דין ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "consultation_preparation",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "מה לשאול עורך דין ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "consultation_guidance",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "הכנה לפגישה עורך דין ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "meeting_preparation",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "medium"
+    },
+    {
+      "keyword": "חוזה עורך דין ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "legal_agreements",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "low"
+    },
+    {
+      "keyword": "התחייבות עורך דין ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "service_commitments",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "low"
+    },
+    {
+      "keyword": "זכויות הלקוח עורך דין ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "client_rights",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "low"
+    },
+    {
+      "keyword": "תקשורת עם עורך דין ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "communication_expectations",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "low"
+    },
+    {
+      "keyword": "עדכונים תביעת ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "case_updates",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "low"
+    },
+    {
+      "keyword": "מעקב אחר תביעת ביטוח סיעוד",
+      "journey_stage": "decision",
+      "category": "case_tracking",
+      "intent": "informational",
+      "source": "ai_expansion",
+      "priority": "low"
+    }
+  ]
+}
