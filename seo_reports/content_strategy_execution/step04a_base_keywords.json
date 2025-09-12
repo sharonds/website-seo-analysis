@@ -1,0 +1,42 @@
+{
+  "base_keyword_summary": {
+    "total_queries_extracted": 30,
+    "personas_covered": 2,
+    "journey_stages": ["awareness", "consideration", "decision"],
+    "source": "step3_customer_journey",
+    "extraction_date": "2025-09-12",
+    "notes": "Direct verbatim extraction of all Step 3 journey search queries from 2 active personas (Dr. Rachel removed per ICP update)"
+  },
+  "base_keywords": [
+    {"keyword": "למה חברת ביטוח דוחה תביעה לסיעוד", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "high", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "ביטוח סיעוד נדחה מה לעשות", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "high", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "תביעת ביטוח סיעוד דחייה", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "high", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "זכאות לביטוח סיעוד אלצהיימר", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "איך יודעים אם זכאי לביטוח סיעוד", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "עורך דין ביטוח סיעוד המלצות", "persona": "דורית", "journey_stage": "consideration", "intent": "commercial", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "כמה עולה עורך דין לביטוח סיעוד", "persona": "דורית", "journey_stage": "consideration", "intent": "commercial", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "אחוז הצלחה תביעות ביטוח סיעוד", "persona": "דורית", "journey_stage": "consideration", "intent": "informational", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "עורך דין ביטוח סיעוד ביקורות", "persona": "דורית", "journey_stage": "consideration", "intent": "commercial", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "זמן תהליך תביעת ביטוח סיעוד", "persona": "דורית", "journey_stage": "consideration", "intent": "informational", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "עורך דין משה תבו ביקורות", "persona": "דורית", "journey_stage": "decision", "intent": "commercial", "urgency": "high", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "התייעצות ראשונית עורך דין ביטוח סיעוד", "persona": "דורית", "journey_stage": "decision", "intent": "transactional", "urgency": "high", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "עורך דין ביטוח סיעוד פתח תקווה", "persona": "דורית", "journey_stage": "decision", "intent": "commercial", "urgency": "high", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "מה קורה אם מפסידים תביעת ביטוח סיעוד", "persona": "דורית", "journey_stage": "decision", "intent": "informational", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "לפנות לעורך דין ביטוח סיעוד כן או לא", "persona": "דורית", "journey_stage": "decision", "intent": "commercial", "urgency": "high", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "מה זה בדיקת תפקוד ביטוח סיעוד", "persona": "יוסף", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "formal", "source": "step3_journey_mapping"},
+    {"keyword": "למה ביטוח סיעוד לא משלם אחרי שנים של תשלומים", "persona": "יוסף", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "formal", "source": "step3_journey_mapping"},
+    {"keyword": "זכויות קשיש ביטוח סיעוד", "persona": "יוסף", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "formal", "source": "step3_journey_mapping"},
+    {"keyword": "איך עובד ביטוח סיעוד בישראל", "persona": "יוסף", "journey_stage": "awareness", "intent": "informational", "urgency": "low", "language_level": "formal", "source": "step3_journey_mapping"},
+    {"keyword": "תנאי זכאות ביטוח סיעוד גיל שלישי", "persona": "יוסף", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "formal", "source": "step3_journey_mapping"},
+    {"keyword": "עורך דין מוסמך ביטוח סיעוד רישיון", "persona": "יוסף", "journey_stage": "consideration", "intent": "informational", "urgency": "medium", "language_level": "formal", "source": "step3_journey_mapping"},
+    {"keyword": "עלות ייעוץ משפטי ביטוח סיעוד", "persona": "יוסף", "journey_stage": "consideration", "intent": "commercial", "urgency": "medium", "language_level": "formal", "source": "step3_journey_mapping"},
+    {"keyword": "עורך דין ביטוח סיעוד חיפה צפון", "persona": "יוסף", "journey_stage": "consideration", "intent": "commercial", "urgency": "medium", "language_level": "formal", "source": "step3_journey_mapping"},
+    {"keyword": "ההורים שלי צריכים עורך דין ביטוח סיעוד", "persona": "יוסף", "journey_stage": "consideration", "intent": "commercial", "urgency": "medium", "language_level": "formal", "source": "step3_journey_mapping"},
+    {"keyword": "איך בוחרים עורך דין טוב ביטוח סיעוד", "persona": "יוסף", "journey_stage": "consideration", "intent": "informational", "urgency": "medium", "language_level": "formal", "source": "step3_journey_mapping"},
+    {"keyword": "להתקשר לעורך דין ביטוח סיעוד טלפון", "persona": "יוסף", "journey_stage": "decision", "intent": "transactional", "urgency": "high", "language_level": "formal", "source": "step3_journey_mapping"},
+    {"keyword": "פגישה אישית עורך דין ביטוח סיעוד", "persona": "יוסף", "journey_stage": "decision", "intent": "transactional", "urgency": "high", "language_level": "formal", "source": "step3_journey_mapping"},
+    {"keyword": "עורך דין משה תבו טלפון", "persona": "יוסף", "journey_stage": "decision", "intent": "transactional", "urgency": "high", "language_level": "formal", "source": "step3_journey_mapping"},
+    {"keyword": "תשלום שלבים עורך דין ביטוח סיעוד", "persona": "יוסף", "journey_stage": "decision", "intent": "informational", "urgency": "medium", "language_level": "formal", "source": "step3_journey_mapping"},
+    {"keyword": "הילדים שלי צריכים להיות בפגישה עם עורך דין", "persona": "יוסף", "journey_stage": "decision", "intent": "informational", "urgency": "medium", "language_level": "formal", "source": "step3_journey_mapping"}
+  ]
+}
