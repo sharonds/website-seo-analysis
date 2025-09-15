@@ -1,1 +1,6 @@
- OK, we are on step five. I'm trying to optimize it and basically we need to finalize the prompt or step five and four step six this is the most important part keywords so we are gathering the right ones were clustering them and then the rest is pretty obvious. I will say one thing that we learn is about the pro. We need to have a very clear input and very clear output using also Jason output having a clear roll task context, and no injection only the contact itself and to validate the output and fire crawl didn't work so we don't have a computer or data which is important for this particular case we don't know which keywords we need to use. Also, they didn't take into account data from Google Edward Edward using the future we wrote all the prompts but I think we need to review everything about six from six onwards and we need to update the business logic because we broke down phase 4.
+Still have pending feedback from caude on the stet 7 prompt
+OK the next step is to build step eight and nine and 10. I also want to improve the site review so we can run it for sarit and moshe.
+Run webiste review again with moseh and sarit
+
+
+ Also, they didn't take into account data from Google Edward Edward using the future we wrote all the prompts but I think we need to review everything about six from six onwards and we need to update the business logic because we broke down phase 4.

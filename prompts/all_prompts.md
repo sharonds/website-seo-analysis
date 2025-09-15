@@ -2,62 +2,89 @@
 
 This file contains all the user prompts from the SEO analysis process for https://www.moshetabo.co.il.
 
-## Step 1: Crawler / Data Collector
-**Role:** Crawler / Data Collector  
-**Target Website:** https://www.moshetabo.co.il  
-**Task:** Perform initial website crawl and data collection:  
-1. Scrape the homepage and identify 3-5 key service/product pages  
-2. Extract from each page:  
-   - Page title and meta description  
-   - All heading tags (H1, H2, H3)  
-   - First 200 words of body content  
-   - All internal links  
-   - Image count and alt text presence  
-3. Create a site map structure showing page hierarchy  
-4. Note primary language (Hebrew/English mix)  
+## Step 1: Website Data Collection → Site Intelligence
+**Role:** Technical Crawler
+**Target Website:** https://www.moshetabo.co.il
+**Goal:** Extract complete on-page data for analysis
+**Task:** Perform systematic data collection:
+1. Scrape homepage + identify 3-5 key service/product pages
+2. Extract from each page:
+   - Page title and meta description
+   - All heading tags (H1, H2, H3)
+   - First 200 words of body content
+   - All internal links with anchor text
+   - Image count and alt text presence/absence
+   - Page URL structure
+3. Document site hierarchy and navigation flow
+4. Note primary language mix (Hebrew/English)
 
-**Output Format:** Structured data table with page URLs, titles, headings, and content snippets.
+**Input:** Target website URL only
+**Output Format:** Structured data table with:
+- Page URLs
+- SEO elements (titles, meta descriptions, headings)
+- Content snippets
+- Link inventory
+- Image optimization status
 
-## Step 2: SEO Reviewer
-**Role:** SEO Reviewer  
-**Input:** Data from Step 1  
+**Business Logic:** This foundational step gathers raw data needed for all subsequent analysis. Without complete data extraction, we cannot identify what's broken vs. working, making this the critical first building block.
 
-**Task:** Analyze on-page SEO elements:  
-1. Title tag analysis: length, uniqueness, keyword presence  
-2. Heading structure: H1 uniqueness, logical hierarchy (H1→H2→H3)  
-3. Meta descriptions: presence, length (150-160 chars), compelling copy  
-4. Content quality: Hebrew readability, keyword density, content length  
-5. Internal linking: navigation structure, anchor text quality  
-6. Image optimization: alt text coverage, file naming  
+**Success Criteria:** Complete data collection from 4-6 pages maximum with all required elements documented for Step 2 analysis.
 
-**Flag Issues:**  
-- Missing or duplicate titles/meta descriptions  
-- Poor heading hierarchy  
-- Thin content (under 300 words)  
-- Missing alt text  
-- Weak internal linking  
 
-**Output:** Issue checklist with severity (High/Medium/Low) for each finding.
 
-## Step 3: Technical SEO Specialist
-**Role:** Technical SEO Specialist  
-**Target:** Same website from Step 1  
+## Step 2: SEO Health Check → Problem Identification
+**Role:** SEO Auditor
+**Input:** Structured data from Step 1
+**Task:** Complete on-page SEO assessment:
 
-**Task:** Check foundational technical elements:  
-1. Sitemap presence: Check /sitemap.xml and /sitemap_index.xml  
-2. Robots.txt: Verify /robots.txt exists and isn't blocking important pages  
-3. HTTPS: Confirm secure connection and no mixed content  
-4. Mobile responsiveness: Test viewport and responsive design  
-5. Page speed basics: Identify obvious speed blockers (large images, etc.)  
-6. URL structure: Clean, descriptive URLs vs messy parameters  
+1. **Title Tag Analysis:** Length (30-60 chars), uniqueness across pages, service keyword presence
+2. **Meta Description Review:** Presence/absence, optimal length (150-160 chars), compelling copy quality
+3. **Heading Structure:** H1 uniqueness per page, logical hierarchy (H1→H2→H3), keyword usage
+4. **Content Quality:** Hebrew readability, appropriate length (300+ words), keyword density, topic relevance
+5. **Internal Linking:** Navigation logic, descriptive anchor text, link distribution between pages
+6. **Image Optimization:** Alt text coverage percentage, descriptive file naming conventions
+7. **Keyword Consistency:** Same service terms appearing across titles, H1s, content, and meta descriptions
 
-**Technical Checks:**  
-- Site loads properly on mobile/desktop  
-- No broken internal links  
-- Proper canonical tags if applicable  
-- Basic site performance (loading time estimation)  
+**Flag Critical Issues:**
+- Missing or duplicate titles/meta descriptions
+- Multiple H1s or poor heading hierarchy
+- Thin content (under 300 words)
+- Missing alt text on images
+- Weak/generic anchor text ("click here", "read more")
+- Keyword gaps (service terms missing from SEO elements)
 
-**Output:** Technical health scorecard with pass/fail for each element.
+**Output:** Complete issue checklist with severity ranking (High/Medium/Low) and working elements identification.
+
+## Step 3: Technical Foundation → Infrastructure Assessment
+**Role:** Technical SEO Specialist
+**Goal:** Verify core technical elements that impact search visibility
+**Target:** https://www.moshetabo.co.il
+**Input:** Website URL for direct technical testing
+**Task:** Pass/fail assessment of foundational elements:
+
+**Core Infrastructure:**
+1. **Sitemap Accessibility:** Check /sitemap.xml and /sitemap_index.xml existence and validity
+2. **Robots.txt Configuration:** Verify /robots.txt exists and doesn't block critical pages
+3. **HTTPS Security:** Confirm SSL certificate and no mixed content warnings
+4. **Mobile Responsiveness:** Test viewport configuration and responsive design functionality
+5. **Page Speed Basics:** Identify obvious blockers (oversized images, slow server response)
+6. **URL Structure:** Evaluate clean, descriptive URLs vs. parameter-heavy structures
+
+**Functionality Tests:**
+- Site loads properly on mobile/desktop devices
+- Internal links from Step 1 data work correctly
+- Canonical tags implementation (if present)
+- Basic loading time assessment
+
+**Output:** 
+- Technical scorecard: ✅/❌ for each element
+- Critical blockers identification (issues preventing indexing)
+- Performance bottlenecks summary
+- Foundation readiness score for optimization work
+
+**Business Logic:** Technical issues can completely block SEO success regardless of content quality. This pass/fail assessment identifies infrastructure problems that must be fixed before optimizing content elements.
+
+**Success Criteria:** Binary assessment complete - clear identification of what works vs. what's broken, with critical blockers flagged for immediate attention.
 
 ## Step 4: Keyword Analyst
 **Role:** Keyword Analyst  
@@ -86,7 +113,7 @@ This file contains all the user prompts from the SEO analysis process for https:
 
 **Task:** Synthesize all findings into business-friendly summary:  
 1. Calculate overall SEO health score: Low/Medium/High  
-2. Identify top 3 critical issues impacting search visibility  
+2. Identify top 5-7 critical issues impacting search visibility  
 3. Explain each issue in simple business terms (why it hurts traffic/customers)  
 4. Estimate potential impact: "Quick wins" vs "Long-term improvements"  
 
