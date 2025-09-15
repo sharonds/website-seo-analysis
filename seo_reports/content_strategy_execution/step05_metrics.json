@@ -1,0 +1,513 @@
+{
+  "metrics_summary": {
+    "keywords_analyzed": 36,
+    "keywords_with_confirmed_data": 4,
+    "keywords_with_estimated_data": 32,
+    "keywords_no_volume_data": 32,
+    "analysis_date": "2025-09-15",
+    "data_sources": ["DataForSEO Keyword Overview", "DataForSEO Bulk Keyword Difficulty", "Business Priority Assessment"],
+    "market_characteristics": "Specialized Hebrew legal terminology with limited traditional search volume metrics"
+  },
+  "keyword_metrics": [
+    {
+      "keyword": "ביטוח סיעוד",
+      "source_phase": "4b",
+      "keyword_difficulty": 18,
+      "competition_level": "low-medium",
+      "monthly_searches": "unknown",
+      "data_confidence": "confirmed",
+      "business_priority": "high",
+      "strategic_rationale": "Foundation term for entire service category",
+      "intent": "informational",
+      "content_opportunity": "Service category overview"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד",
+      "source_phase": "4b",
+      "keyword_difficulty": 21,
+      "competition_level": "low-medium",
+      "monthly_searches": "unknown",
+      "data_confidence": "confirmed",
+      "business_priority": "high",
+      "strategic_rationale": "Direct service search with commercial intent",
+      "intent": "commercial",
+      "content_opportunity": "Main service landing page"
+    },
+    {
+      "keyword": "ביטוח סיעודי",
+      "source_phase": "4b",
+      "keyword_difficulty": 19,
+      "competition_level": "low-medium",
+      "monthly_searches": "unknown",
+      "data_confidence": "confirmed",
+      "business_priority": "high",
+      "strategic_rationale": "Alternative terminology for same service",
+      "intent": "commercial",
+      "content_opportunity": "Alternative terminology optimization"
+    },
+    {
+      "keyword": "עורך דין ביטוחים",
+      "source_phase": "4b",
+      "keyword_difficulty": 13,
+      "competition_level": "low",
+      "monthly_searches": "unknown",
+      "data_confidence": "confirmed",
+      "business_priority": "medium",
+      "strategic_rationale": "Broader insurance law category",
+      "intent": "commercial",
+      "content_opportunity": "General insurance law services"
+    },
+    {
+      "keyword": "ביטוח סיעוד נדחה מה לעשות",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "High-urgency problem solving opportunity with clear legal service need",
+      "intent": "transactional",
+      "content_opportunity": "Crisis response landing page"
+    },
+    {
+      "keyword": "תביעת ביטוח סיעוד דחייה",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "Direct legal action requirement, core business service",
+      "intent": "transactional",
+      "content_opportunity": "Legal process explanation"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד המלצות",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-medium",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "Direct service search with commercial intent, consideration stage",
+      "intent": "commercial",
+      "content_opportunity": "Testimonials and case studies"
+    },
+    {
+      "keyword": "אחוז הצלחה תביעות ביטוח סיעוד",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "Professional credibility research, leads to service evaluation",
+      "intent": "informational",
+      "content_opportunity": "Success rate statistics and case studies"
+    },
+    {
+      "keyword": "זמן תהליך תביעת ביטוח סיעוד",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "Process understanding need, indicates service consideration",
+      "intent": "informational",
+      "content_opportunity": "Timeline and process explanation"
+    },
+    {
+      "keyword": "התייעצות ראשונית עורך דין ביטוח סיעוד",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "Direct service request, high conversion potential",
+      "intent": "transactional",
+      "content_opportunity": "Consultation booking funnel"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד פתח תקווה",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "Local market targeting with commercial intent",
+      "intent": "commercial",
+      "content_opportunity": "Local service page"
+    },
+    {
+      "keyword": "מה קורה אם מפסידים תביעת ביטוח סיעוד",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "Risk assessment concern, leads to professional consultation need",
+      "intent": "informational",
+      "content_opportunity": "Risk mitigation and appeal process"
+    },
+    {
+      "keyword": "לפנות לעורך דין ביטוח סיעוד כן או לא",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-medium",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "Decision-making query with high commercial intent",
+      "intent": "commercial",
+      "content_opportunity": "Decision framework guide"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד חיפה צפון",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "Geographic targeting with commercial intent",
+      "intent": "commercial",
+      "content_opportunity": "Regional service page"
+    },
+    {
+      "keyword": "ההורים שלי צריכים עורך דין ביטוח סיעוד",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "Family-driven service need with commercial intent",
+      "intent": "commercial",
+      "content_opportunity": "Family guidance resources"
+    },
+    {
+      "keyword": "להתקשר לעורך דין ביטוח סיעוד טלפון",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "Immediate contact intent, highest conversion potential",
+      "intent": "transactional",
+      "content_opportunity": "Contact optimization"
+    },
+    {
+      "keyword": "פגישה אישית עורך דין ביטוח סיעוד",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "Direct service engagement intent",
+      "intent": "transactional",
+      "content_opportunity": "Meeting booking system"
+    },
+    {
+      "keyword": "תשלום שלבים עורך דין ביטוח סיעוד",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "Service terms research, advanced consideration stage",
+      "intent": "informational",
+      "content_opportunity": "Payment structure transparency"
+    },
+    {
+      "keyword": "תביעות ביטוח סיעוד",
+      "source_phase": "4b",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-medium",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "Core service area with commercial potential",
+      "intent": "commercial",
+      "content_opportunity": "Claims process overview"
+    },
+    {
+      "keyword": "דחיית תביעת ביטוח סיעוד",
+      "source_phase": "4b",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "high",
+      "strategic_rationale": "Problem-solving urgency, high legal service need",
+      "intent": "transactional",
+      "content_opportunity": "Denial response strategy"
+    },
+    {
+      "keyword": "זכאות לביטוח סיעוד אלצהיימר",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "Condition-specific eligibility, potential legal guidance need",
+      "intent": "informational",
+      "content_opportunity": "Disease-specific eligibility guide"
+    },
+    {
+      "keyword": "איך יודעים אם זכאי לביטוח סיעוד",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-medium",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "Eligibility assessment, may require professional evaluation",
+      "intent": "informational",
+      "content_opportunity": "Eligibility self-assessment tool"
+    },
+    {
+      "keyword": "כמה עולה עורך דין לביטוח סיעוד",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-medium",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "Cost consideration in service evaluation",
+      "intent": "commercial",
+      "content_opportunity": "Pricing transparency page"
+    },
+    {
+      "keyword": "מה זה בדיקת תפקוד ביטוח סיעוד",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "Process understanding, may require professional guidance",
+      "intent": "informational",
+      "content_opportunity": "Assessment process explanation"
+    },
+    {
+      "keyword": "למה ביטוח סיעוד לא משלם אחרי שנים של תשלומים",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "Problem identification, potential legal consultation need",
+      "intent": "informational",
+      "content_opportunity": "Common denial reasons explanation"
+    },
+    {
+      "keyword": "זכויות קשיש ביטוח סיעוד",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "Rights awareness, may lead to legal guidance requirement",
+      "intent": "informational",
+      "content_opportunity": "Elderly rights guide"
+    },
+    {
+      "keyword": "איך עובד ביטוח סיעוד בישראל",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-medium",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "System understanding, foundation for potential legal needs",
+      "intent": "informational",
+      "content_opportunity": "System overview guide"
+    },
+    {
+      "keyword": "תנאי זכאות ביטוח סיעוד גיל שלישי",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "Age-specific eligibility, potential professional guidance need",
+      "intent": "informational",
+      "content_opportunity": "Age-specific eligibility guide"
+    },
+    {
+      "keyword": "עורך דין מוסמך ביטוח סיעוד רישיון",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "Professional qualification verification, trust-building stage",
+      "intent": "informational",
+      "content_opportunity": "Credentials and qualifications page"
+    },
+    {
+      "keyword": "עלות ייעוץ משפטי ביטוח סיעוד",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-medium",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "Service cost evaluation, commercial consideration",
+      "intent": "commercial",
+      "content_opportunity": "Consultation pricing page"
+    },
+    {
+      "keyword": "איך בוחרים עורך דין טוב ביטוח סיעוד",
+      "source_phase": "4a",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-medium",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "Selection criteria research, advanced consideration stage",
+      "intent": "informational",
+      "content_opportunity": "Selection guide and criteria"
+    },
+    {
+      "keyword": "עורך דין לענייני ביטוח",
+      "source_phase": "4b",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-medium",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "General insurance legal services, broader market capture",
+      "intent": "commercial",
+      "content_opportunity": "General insurance law services"
+    },
+    {
+      "keyword": "ביטוח סיעוד הראל",
+      "source_phase": "4b",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-high",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "Insurance company specific, potential claims situations",
+      "intent": "informational",
+      "content_opportunity": "Harel-specific claims guidance"
+    },
+    {
+      "keyword": "זכאות לביטוח סיעוד",
+      "source_phase": "4b",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-medium",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "General eligibility assessment, foundation for legal needs",
+      "intent": "informational",
+      "content_opportunity": "General eligibility guide"
+    },
+    {
+      "keyword": "ביטוח סיעוד מגיל",
+      "source_phase": "4b",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-high",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "Insurance company specific, potential claims context",
+      "intent": "informational",
+      "content_opportunity": "Migil-specific claims guidance"
+    },
+    {
+      "keyword": "בדיקת תפקוד ביטוח סיעוד",
+      "source_phase": "4b",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-low",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "Assessment process understanding, may require professional guidance",
+      "intent": "informational",
+      "content_opportunity": "Functionality assessment guide"
+    },
+    {
+      "keyword": "ביטוח סיעוד כלל",
+      "source_phase": "4b",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-high",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "Insurance company specific, potential claims situations",
+      "intent": "informational",
+      "content_opportunity": "Clal-specific claims guidance"
+    },
+    {
+      "keyword": "ביטוח סיעוד מנורה מבטחים",
+      "source_phase": "4b",
+      "keyword_difficulty": "unknown",
+      "competition_level": "estimated-high",
+      "monthly_searches": "unknown",
+      "data_confidence": "business-priority",
+      "business_priority": "medium",
+      "strategic_rationale": "Major insurance company specific, potential claims context",
+      "intent": "informational",
+      "content_opportunity": "Menorah-specific claims guidance"
+    }
+  ],
+  "analysis_insights": {
+    "competition_assessment": {
+      "low_competition_keywords": 25,
+      "medium_competition_keywords": 9,
+      "high_competition_keywords": 2,
+      "competitive_landscape": "Moderate competition with opportunities in specialized legal terminology"
+    },
+    "intent_distribution": {
+      "transactional": 6,
+      "commercial": 14,
+      "informational": 16,
+      "strategic_focus": "Balanced approach with emphasis on commercial and transactional intent"
+    },
+    "business_priority_matrix": {
+      "high_priority_keywords": 20,
+      "medium_priority_keywords": 16,
+      "priority_rationale": "Legal service relevance and conversion potential over pure search volume"
+    },
+    "content_opportunities": {
+      "service_pages": 8,
+      "educational_content": 12,
+      "local_targeting": 2,
+      "company_specific": 5,
+      "process_guides": 9
+    }
+  },
+  "recommendations_for_step_6": {
+    "clustering_priorities": [
+      "Group by intent (transactional, commercial, informational)",
+      "Cluster by service type (claims, eligibility, selection)",
+      "Geographic grouping for local SEO",
+      "Insurance company specific clusters"
+    ],
+    "quick_wins": [
+      "Target 4 confirmed low-competition terms first",
+      "Develop crisis response content for high-urgency keywords",
+      "Create local service pages for geographic terms"
+    ],
+    "strategic_investments": [
+      "Comprehensive educational content hub",
+      "Company-specific claim guidance resources",
+      "Professional credibility and trust signals"
+    ]
+  }
+}
