@@ -1,14 +1,31 @@
 ## Step 7 — Foundational Content Plan
 
-**You are a Content Strategist focused on building topical authority for new or weak websites. Your goal is to create an actionable content plan using the keyword clusters from Step 6 that establishes SEO foundations and drives early wins.**
+**Business Context:** [Insert business context from Step 1]
 
-**Task:** Transform keyword clusters from Step 6 into a strategic content plan with these components:
+**You are a Content Strategist focused on building topical authority for new or weak websites. Your goal is to translate keyword clusters from Step 6 into a strategic content plan that establishes SEO foundations and serves customer needs.**
+
+**Input Context from Step 6:**
+- Use the keyword clusters with content type recommendations and opportunity assessments
+- Reference the strategic timing and business value indicators for each cluster
+- Consider the implementation difficulty and data confidence levels
+
+**Input Context from Step 2 & 3:**
+- Reference the ideal customer profiles and their characteristics
+- Consider the customer journey stages and decision-making patterns
+- Account for business goals and positioning from Step 1
+
+**Task:** Transform keyword clusters into a strategic content foundation with clear priorities and rationale.
 
 **Content Pillar Development:**
-- Identify 3-5 core content pillars from the keyword clusters
-- Ensure pillars align with business expertise and customer needs
-- Map pillars to customer journey stages from Step 3
-- Define the main topic focus for each pillar
+- Identify 3-5 core content pillars based on keyword cluster themes
+- Ensure pillars align with business expertise and customer journey stages
+- Define the strategic purpose of each pillar (authority building, conversion, foundation)
+
+**Content Selection & Prioritization:**
+- Select 10-15 priority content pieces from the highest-value clusters
+- Balance content types across the customer journey (awareness, consideration, decision)
+- Prioritize based on business value, implementation difficulty, and strategic timing
+- Include quick wins alongside authority-building content
 
 **Content Prioritization Framework:**
 - **Quick Wins:** Lower difficulty clusters with clear business relevance
@@ -16,23 +33,62 @@
 - **Conversion Drivers:** Content that moves prospects toward decision stage
 - **Foundation Content:** Essential topics that establish credibility
 
-**Strategic Content Plan:**
-1. **10-15 specific content ideas** with working titles based on clusters
-2. **Content type recommendations** (blog post, service page, guide, FAQ)
-3. **Priority sequencing** for implementation (Phase 1, 2, 3)
-4. **Target keyword cluster** assignment for each content piece
-5. **Estimated timeline** for content creation
+**Strategic Framework:**
+- **Phase 1 (Foundation):** Essential service pages and core educational content
+- **Phase 2 (Authority):** Comprehensive guides and expertise demonstrations  
+- **Phase 3 (Expansion):** Supporting content and niche topic coverage
 
-**Implementation Structure:**
-- Focus on foundational content that can be expanded later
-- Balance informational content (awareness) with service-focused content (decision)
-- Include content that addresses main customer pain points
-- Consider internal linking opportunities between related content
+**Content Structure Planning:**
+- Define content relationships and hierarchy for site architecture
+- Identify internal linking opportunities between related pieces
+- Estimate resource complexity for scheduling purposes
+- Note content dependencies and prerequisite relationships
 
-**Output Format:** Create a content roadmap with:
-- Content calendar showing titles, types, and target clusters
-- 3-month implementation timeline with priorities
-- Brief content outline for top 5 priority pieces
-- Success metrics and expectations for each content type
+**Output Format - JSON Structure:**
+```json
+{
+  "content_strategy_summary": {
+    "total_pillars": 0,
+    "total_priority_content": 0,
+    "strategic_focus": "foundation_building/authority_establishment/conversion_optimization"
+  },
+  "content_pillars": [
+    {
+      "pillar_name": "descriptive_pillar_name",
+      "strategic_purpose": "authority_building/conversion/foundation",
+      "target_journey_stage": "awareness/consideration/decision",
+      "source_clusters": ["cluster_1", "cluster_2"],
+      "pillar_description": "brief_explanation_of_pillar_focus"
+    }
+  ],
+  "priority_content": [
+    {
+      "content_title": "working_title",
+      "content_type": "service_page/blog_post/guide/faq/landing_page",
+      "target_cluster": "source_cluster_name",
+      "strategic_phase": "phase_1/phase_2/phase_3",
+      "business_priority": "high/medium/low",
+      "prioritization_category": "quick_win/authority_builder/conversion_driver/foundation_content",
+      "content_relationships": {
+        "parent_content": "content_title_or_null",
+        "child_content": ["related_content_1", "related_content_2"],
+        "internal_links_to": ["content_title_1", "content_title_2"]
+      },
+      "resource_requirements": {
+        "complexity_level": "low/medium/high",
+        "research_required": "minimal/moderate/extensive"
+      },
+      "dependencies": ["prerequisite_content_1", "prerequisite_content_2"],
+      "target_journey_stage": "awareness/consideration/decision",
+      "rationale": "why_this_content_is_prioritized"
+    }
+  ]
+}
+```
 
-**Goal:** Provide a clear, actionable plan that transforms keyword research into concrete content that builds topical authority and serves customer needs.
+**Output Files:**
+- Content strategy analysis: seo_reports/content_strategy_execution/step07_content_strategy.md
+- Content plan data: seo_reports/content_strategy_execution/step07_content_plan.json
+
+**Purpose:**
+This strategic content plan provides the foundation for Step 8's architecture decisions and Step 9's scheduling, ensuring content serves both SEO goals and customer needs while building topical authority systematically.
