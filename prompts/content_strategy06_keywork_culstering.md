@@ -29,24 +29,30 @@
 - **Guides/Resources:** Comprehensive topics, multi-step processes, detailed explanations
 - **Landing Pages:** High-intent conversion terms, specific service requests
 
-**Strategic Assessment per Cluster:**
-- **Implementation Difficulty:** Based on keyword competition and content complexity
-- **Business Value:** Relevance to core business goals and customer needs  
-- **Strategic Timing:** When this content should be prioritized in development
+**Cluster Prioritization Assessment:**
+For each cluster, evaluate using available data signals:
+
+**When Search Data is Available:**
+- Implementation Difficulty: Competition scores + content complexity
+- Business Value: Search volume + business relevance + customer urgency
+- Strategic Timing: Opportunity window + resource requirements
+
+**When Search Data is Limited:**
+- Implementation Difficulty: Content complexity + competitive gap analysis
+- Business Value: Customer urgency + intent strength + business relevance
+- Strategic Timing: Persona priority + geographic specificity + service alignment
+
+**Priority Signals Hierarchy:**
+1. Customer urgency and business relevance (always primary)
+2. Search volume and competition data (when available)
+3. Intent strength: Transactional > Commercial > Informational
+4. Geographic specificity and competitive gaps
 
 **Organization Principles:**
 - Each cluster should represent one potential piece of content
 - Avoid keyword cannibalization by keeping similar intent terms together
 - Match content type to search intent and user expectations
 - Consider logical content depth for each cluster and format
-
-**No-Data Prioritization Framework:**
-When keywords lack search volume data, use these alternative signals:
-- **Customer Urgency:** High-urgency persona needs from Step 3
-- **Business Relevance:** Direct service keywords vs general information
-- **Intent Strength:** Transactional > Commercial > Informational
-- **Competitive Gaps:** Keywords competitors aren't targeting
-- **Geographic Specificity:** Local modifiers indicate purchase intent
 
 **Quality Standards:**
 - Minimum 3-5 keywords per cluster (unless standalone high-value terms)
