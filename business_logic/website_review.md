@@ -3,7 +3,7 @@
 **Step 1 — Website Data Collection → Site Intelligence**
 * **Role:** Technical Crawler
 * **Goal:** Extract complete on-page data for analysis
-* **Task:** Scrape homepage + 3-5 key pages for titles, meta descriptions, headings (H1-H3), first 200 words, internal links, image count/alt text, and site structure
+* **Task:** Scrape homepage + 5 key pages for titles, meta descriptions, headings (H1-H3), first 200 words, internal links, image count/alt text, and site structure
 * **Input:** Target website URL only
 * **Business Logic:** This foundational step gathers raw data needed for all subsequent analysis. Without complete data extraction, we cannot identify what's broken vs. working, making this the critical first building block.
 
@@ -24,7 +24,7 @@
 **Step 4 — Keyword Alignment → Content-Search Matching**
 * **Role:** Keyword Strategist
 * **Goal:** Assess how well current content matches target search terms
-* **Task:** Identify 2-3 primary Hebrew keywords, check presence in titles/H1s/content, evaluate natural integration vs. over-optimization, note missing service keywords
+* **Task:** Identify 5-8 primary Hebrew keywords, check presence in titles/H1s/content, evaluate natural integration vs. over-optimization, note missing service keywords
 * **Input:** Content analysis from Steps 1-2
 * **Business Logic:** Even perfect technical SEO fails without proper keyword targeting. This step reveals gaps between what the business offers and what search engines can understand from the content.
 
