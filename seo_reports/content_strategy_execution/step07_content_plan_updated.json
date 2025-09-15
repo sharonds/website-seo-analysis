@@ -1,0 +1,279 @@
+{
+  "content_strategy_summary": {
+    "total_pillars": 4,
+    "total_priority_content": 12,
+    "strategic_focus": "foundation_building"
+  },
+  "content_pillars": [
+    {
+      "pillar_name": "Professional Service Authority",
+      "strategic_purpose": "conversion",
+      "target_journey_stage": "consideration",
+      "source_clusters": ["cluster_2", "cluster_3", "cluster_9"],
+      "pillar_description": "Core service positioning and conversion optimization targeting high-intent commercial searches with credibility establishment"
+    },
+    {
+      "pillar_name": "Crisis Response & Problem Resolution",
+      "strategic_purpose": "conversion",
+      "target_journey_stage": "awareness",
+      "source_clusters": ["cluster_1", "cluster_6"],
+      "pillar_description": "High-urgency problem-solving content capturing distressed clients at peak motivation while removing financial barriers"
+    },
+    {
+      "pillar_name": "Educational Authority & System Understanding",
+      "strategic_purpose": "authority_building",
+      "target_journey_stage": "awareness",
+      "source_clusters": ["cluster_7", "cluster_8", "cluster_10", "cluster_5"],
+      "pillar_description": "Educational content foundation building topical authority while nurturing prospects and capturing high-volume searches"
+    },
+    {
+      "pillar_name": "Local Market Dominance & Family Support",
+      "strategic_purpose": "foundation",
+      "target_journey_stage": "decision",
+      "source_clusters": ["cluster_4", "cluster_11"],
+      "pillar_description": "Geographic SEO targeting with location-specific trust signals and family decision-making support"
+    }
+  ],
+  "priority_content": [
+    {
+      "content_title": "עורך דין ביטוח סיעוד מומחה",
+      "content_type": "service_page",
+      "target_cluster": "Professional Service Discovery",
+      "strategic_phase": "phase_1",
+      "business_priority": "high",
+      "prioritization_category": "quick_win",
+      "content_relationships": {
+        "parent_content": null,
+        "child_content": ["consultation_landing_page", "credentials_page", "faq_page"],
+        "internal_links_to": ["consultation_landing_page", "credentials_page", "legal_process_overview"]
+      },
+      "resource_requirements": {
+        "complexity_level": "low",
+        "research_required": "minimal"
+      },
+      "dependencies": [],
+      "target_journey_stage": "consideration",
+      "rationale": "Core commercial terms with confirmed high CPC ($41.68) require immediate implementation as primary revenue driver"
+    },
+    {
+      "content_title": "התייעצות ראשונית חינם - זמינות מיידית",
+      "content_type": "landing_page",
+      "target_cluster": "Initial Consultation & Contact",
+      "strategic_phase": "phase_1",
+      "business_priority": "high",
+      "prioritization_category": "conversion_driver",
+      "content_relationships": {
+        "parent_content": "main_service_page",
+        "child_content": [],
+        "internal_links_to": ["main_service_page", "faq_page"]
+      },
+      "resource_requirements": {
+        "complexity_level": "low",
+        "research_required": "minimal"
+      },
+      "dependencies": [],
+      "target_journey_stage": "decision",
+      "rationale": "Highest potential for consultation bookings with transactional search intent and direct conversion focus"
+    },
+    {
+      "content_title": "עלויות ייעוץ משפטי וניהול סיכונים",
+      "content_type": "faq",
+      "target_cluster": "Cost & Risk Assessment",
+      "strategic_phase": "phase_1",
+      "business_priority": "high",
+      "prioritization_category": "foundation_content",
+      "content_relationships": {
+        "parent_content": "main_service_page",
+        "child_content": [],
+        "internal_links_to": ["consultation_landing_page", "main_service_page"]
+      },
+      "resource_requirements": {
+        "complexity_level": "low",
+        "research_required": "moderate"
+      },
+      "dependencies": [],
+      "target_journey_stage": "consideration",
+      "rationale": "Addresses financial concerns critical for both personas' decision-making and removes conversion barriers"
+    },
+    {
+      "content_title": "רישיון, הסמכות ו-15 שנות ניסיון",
+      "content_type": "service_page",
+      "target_cluster": "Professional Credentials & Selection",
+      "strategic_phase": "phase_1",
+      "business_priority": "medium",
+      "prioritization_category": "foundation_content",
+      "content_relationships": {
+        "parent_content": "main_service_page",
+        "child_content": [],
+        "internal_links_to": ["main_service_page", "legal_process_overview"]
+      },
+      "resource_requirements": {
+        "complexity_level": "low",
+        "research_required": "minimal"
+      },
+      "dependencies": [],
+      "target_journey_stage": "consideration",
+      "rationale": "Essential for credibility establishment, especially important for Yosef's thorough evaluation approach"
+    },
+    {
+      "content_title": "תביעה נדחתה? המדריך המלא לפעולה מיידית",
+      "content_type": "blog_post",
+      "target_cluster": "Claim Denial Crisis Response",
+      "strategic_phase": "phase_2",
+      "business_priority": "high",
+      "prioritization_category": "authority_builder",
+      "content_relationships": {
+        "parent_content": null,
+        "child_content": [],
+        "internal_links_to": ["consultation_landing_page", "faq_page", "legal_process_overview"]
+      },
+      "resource_requirements": {
+        "complexity_level": "medium",
+        "research_required": "moderate"
+      },
+      "dependencies": ["main_service_page", "consultation_landing_page"],
+      "target_journey_stage": "awareness",
+      "rationale": "Captures Dorit's urgent scenario at peak motivation with strong conversion potential"
+    },
+    {
+      "content_title": "תהליך התביעה, זמנים ואחוזי הצלחה",
+      "content_type": "service_page",
+      "target_cluster": "Legal Process & Success Metrics",
+      "strategic_phase": "phase_2",
+      "business_priority": "high",
+      "prioritization_category": "authority_builder",
+      "content_relationships": {
+        "parent_content": "main_service_page",
+        "child_content": [],
+        "internal_links_to": ["main_service_page", "credentials_page", "consultation_landing_page"]
+      },
+      "resource_requirements": {
+        "complexity_level": "medium",
+        "research_required": "moderate"
+      },
+      "dependencies": ["main_service_page", "credentials_page"],
+      "target_journey_stage": "consideration",
+      "rationale": "Builds credibility through statistics while supporting consideration stage research for both personas"
+    },
+    {
+      "content_title": "עורך דין ביטוח סיעוד פתח תקווה",
+      "content_type": "landing_page",
+      "target_cluster": "Local Market Targeting",
+      "strategic_phase": "phase_2",
+      "business_priority": "high",
+      "prioritization_category": "conversion_driver",
+      "content_relationships": {
+        "parent_content": "main_service_page",
+        "child_content": [],
+        "internal_links_to": ["main_service_page", "consultation_landing_page", "credentials_page"]
+      },
+      "resource_requirements": {
+        "complexity_level": "medium",
+        "research_required": "moderate"
+      },
+      "dependencies": ["main_service_page", "consultation_landing_page"],
+      "target_journey_stage": "decision",
+      "rationale": "Geographic targeting for Dorit's location with commercial intent and reduced competition"
+    },
+    {
+      "content_title": "ביטוח סיעוד: הראל, מנורה, מגדל, כלל והפניקס",
+      "content_type": "blog_post",
+      "target_cluster": "Insurance Company-Specific",
+      "strategic_phase": "phase_2",
+      "business_priority": "high",
+      "prioritization_category": "authority_builder",
+      "content_relationships": {
+        "parent_content": null,
+        "child_content": ["harel_specific_post", "menorah_specific_post", "migdal_specific_post", "clal_specific_post"],
+        "internal_links_to": ["main_service_page", "consultation_landing_page", "crisis_response_guide"]
+      },
+      "resource_requirements": {
+        "complexity_level": "medium",
+        "research_required": "extensive"
+      },
+      "dependencies": ["main_service_page"],
+      "target_journey_stage": "awareness",
+      "rationale": "High search volume opportunity (3,600 monthly searches) for broad market capture and authority building"
+    },
+    {
+      "content_title": "זכאות לביטוח סיעוד: המדריך המלא לזכويותיכם",
+      "content_type": "guide",
+      "target_cluster": "Eligibility & Rights Education",
+      "strategic_phase": "phase_3",
+      "business_priority": "medium",
+      "prioritization_category": "authority_builder",
+      "content_relationships": {
+        "parent_content": null,
+        "child_content": [],
+        "internal_links_to": ["crisis_response_guide", "legal_process_overview", "consultation_landing_page"]
+      },
+      "resource_requirements": {
+        "complexity_level": "medium",
+        "research_required": "extensive"
+      },
+      "dependencies": ["legal_process_overview"],
+      "target_journey_stage": "awareness",
+      "rationale": "Educational foundation supporting both personas' need for rights clarity and lead nurturing"
+    },
+    {
+      "content_title": "איך עובד ביטוח הסיעוד בישראל: מדריך מעשי",
+      "content_type": "blog_post",
+      "target_cluster": "System & Process Understanding",
+      "strategic_phase": "phase_3",
+      "business_priority": "medium",
+      "prioritization_category": "authority_builder",
+      "content_relationships": {
+        "parent_content": null,
+        "child_content": [],
+        "internal_links_to": ["eligibility_guide", "insurance_company_hub", "legal_process_overview"]
+      },
+      "resource_requirements": {
+        "complexity_level": "medium",
+        "research_required": "extensive"
+      },
+      "dependencies": ["legal_process_overview", "eligibility_guide"],
+      "target_journey_stage": "awareness",
+      "rationale": "Addresses Yosef's systematic approach and confusion resolution needs while building SEO authority"
+    },
+    {
+      "content_title": "המדריך למשפחות: מתי ואיך לפנות לייצוג משפטי",
+      "content_type": "blog_post",
+      "target_cluster": "Family Decision Support",
+      "strategic_phase": "phase_3",
+      "business_priority": "medium",
+      "prioritization_category": "authority_builder",
+      "content_relationships": {
+        "parent_content": null,
+        "child_content": [],
+        "internal_links_to": ["consultation_landing_page", "faq_page", "crisis_response_guide"]
+      },
+      "resource_requirements": {
+        "complexity_level": "low",
+        "research_required": "moderate"
+      },
+      "dependencies": ["crisis_response_guide", "faq_page"],
+      "target_journey_stage": "consideration",
+      "rationale": "Targets family member searches with emotional guidance for both personas' family involvement needs"
+    },
+    {
+      "content_title": "עורך דין ביטוח סיעוד חיפה וצפון",
+      "content_type": "landing_page",
+      "target_cluster": "Local Market Targeting",
+      "strategic_phase": "phase_3",
+      "business_priority": "high",
+      "prioritization_category": "conversion_driver",
+      "content_relationships": {
+        "parent_content": "main_service_page",
+        "child_content": [],
+        "internal_links_to": ["main_service_page", "consultation_landing_page", "petah_tikva_landing_page"]
+      },
+      "resource_requirements": {
+        "complexity_level": "medium",
+        "research_required": "moderate"
+      },
+      "dependencies": ["main_service_page", "petah_tikva_landing_page"],
+      "target_journey_stage": "decision",
+      "rationale": "Secondary geographic market expansion for Yosef's location with commercial intent and reduced competition"
+    }
+  ]
+}
