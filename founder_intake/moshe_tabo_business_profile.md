@@ -22,6 +22,7 @@
 1. Increase SEO ranking
 2. Increase lead generation from 3 a months to 10 a month
 3. Buiding SEO foundation for our new website
+4. Improve unit econimic for our google adwords campaigns
 
 ## Current Website Content Inventory
 ### Website Structure & Pages
