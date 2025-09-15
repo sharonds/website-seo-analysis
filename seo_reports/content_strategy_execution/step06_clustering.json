@@ -1,0 +1,487 @@
+{
+  "clustering_summary": {
+    "total_keywords": 36,
+    "total_clusters": 11,
+    "clustering_date": "2025-09-15",
+    "methodology": "Semantic similarity + search intent + content compatibility + customer journey alignment",
+    "content_type_distribution": {
+      "service_pages": 3,
+      "landing_pages": 2,
+      "blog_posts": 4,
+      "faq_pages": 1,
+      "guides_resources": 1
+    },
+    "priority_framework": "Business relevance + customer urgency + intent strength + geographic specificity"
+  },
+  "keyword_clusters": [
+    {
+      "cluster_name": "Claim Denial Crisis Response",
+      "cluster_id": 1,
+      "primary_keyword": "ביטוח סיעוד נדחה מה לעשות",
+      "supporting_keywords": [
+        "תביעת ביטוח סיעוד דחייה",
+        "דחיית תביעת ביטוח סיעוד"
+      ],
+      "search_intent": "transactional",
+      "customer_journey_stage": "awareness",
+      "persona_alignment": "Dorit - urgent claim rejection scenario",
+      "content_type_recommendation": "blog_post_guide",
+      "opportunity_assessment": {
+        "implementation_difficulty": "medium",
+        "business_value": "high",
+        "strategic_timing": "immediate",
+        "data_confidence": "business-priority"
+      },
+      "rationale": "High-urgency problem-solving content captures distressed clients at peak motivation while building authority and trust. Addresses immediate emotional needs with clear action steps.",
+      "content_objectives": [
+        "Address immediate claim rejection concerns",
+        "Provide clear action steps",
+        "Build trust through expertise demonstration",
+        "Guide toward professional consultation"
+      ],
+      "conversion_elements": [
+        "Free consultation CTA",
+        "Emergency contact information",
+        "Success story integration",
+        "Next steps checklist"
+      ]
+    },
+    {
+      "cluster_name": "Professional Service Discovery",
+      "cluster_id": 2,
+      "primary_keyword": "עורך דין ביטוח סיעוד",
+      "supporting_keywords": [
+        "עורך דין ביטוח סיעוד המלצות",
+        "עורך דין ביטוח סיעודי",
+        "איך בוחרים עורך דין טוב ביטוח סיעוד"
+      ],
+      "search_intent": "commercial",
+      "customer_journey_stage": "consideration",
+      "persona_alignment": "Both Dorit and Yosef lawyer selection process",
+      "content_type_recommendation": "service_page",
+      "opportunity_assessment": {
+        "implementation_difficulty": "easy",
+        "business_value": "very_high",
+        "strategic_timing": "immediate",
+        "data_confidence": "confirmed"
+      },
+      "rationale": "Core service terms with confirmed high CPC ($41.68) require service-focused content with trust signals and conversion elements. Primary revenue driver with commercial intent.",
+      "search_metrics": {
+        "monthly_searches": 110,
+        "cpc": 41.68,
+        "competition": "low",
+        "difficulty": 21
+      },
+      "content_objectives": [
+        "Establish professional credibility",
+        "Highlight specialization in nursing care insurance",
+        "Display trust signals and testimonials",
+        "Drive consultation bookings"
+      ],
+      "conversion_elements": [
+        "Consultation booking form",
+        "Client testimonials carousel",
+        "Success rate statistics",
+        "Professional credentials display"
+      ]
+    },
+    {
+      "cluster_name": "Initial Consultation & Contact",
+      "cluster_id": 3,
+      "primary_keyword": "התייעצות ראשונית עורך דין ביטוח סיעוד",
+      "supporting_keywords": [
+        "להתקשר לעורך דין ביטוח סיעוד טלפון",
+        "פגישה אישית עורך דין ביטוח סיעוד"
+      ],
+      "search_intent": "transactional",
+      "customer_journey_stage": "decision",
+      "persona_alignment": "Final decision triggers for both personas",
+      "content_type_recommendation": "landing_page",
+      "opportunity_assessment": {
+        "implementation_difficulty": "easy",
+        "business_value": "very_high",
+        "strategic_timing": "immediate",
+        "data_confidence": "business-priority"
+      },
+      "rationale": "High-intent conversion terms require dedicated landing pages optimized for action. Direct conversion intent with highest potential for consultation bookings.",
+      "content_objectives": [
+        "Facilitate immediate contact",
+        "Reduce friction for consultation booking",
+        "Provide multiple contact options",
+        "Set clear expectations for consultation"
+      ],
+      "conversion_elements": [
+        "Primary phone number prominently displayed",
+        "Online booking system",
+        "WhatsApp quick contact",
+        "Free consultation emphasis"
+      ]
+    },
+    {
+      "cluster_name": "Local Market Targeting",
+      "cluster_id": 4,
+      "primary_keyword": "עורך דין ביטוח סיעוד פתח תקווה",
+      "supporting_keywords": [
+        "עורך דין ביטוח סיעוד חיפה צפון"
+      ],
+      "search_intent": "commercial",
+      "customer_journey_stage": "decision",
+      "persona_alignment": "Location preferences from customer journeys",
+      "content_type_recommendation": "landing_pages_location_specific",
+      "opportunity_assessment": {
+        "implementation_difficulty": "medium",
+        "business_value": "high",
+        "strategic_timing": "short-term",
+        "data_confidence": "business-priority"
+      },
+      "rationale": "Geographic intent requires local SEO optimization with location-specific trust signals. Reduced competition in local markets offers ranking opportunities.",
+      "geographic_targets": [
+        "Petah Tikva",
+        "Haifa North"
+      ],
+      "content_objectives": [
+        "Establish local market presence",
+        "Highlight local accessibility",
+        "Build location-specific trust",
+        "Capture local search traffic"
+      ],
+      "conversion_elements": [
+        "Local office information",
+        "Area-specific success stories",
+        "Local client testimonials",
+        "Regional case examples"
+      ]
+    },
+    {
+      "cluster_name": "Legal Process & Success Metrics",
+      "cluster_id": 5,
+      "primary_keyword": "אחוז הצלחה תביעות ביטוח סיעוד",
+      "supporting_keywords": [
+        "זמן תהליך תביעת ביטוח סיעוד",
+        "תביעות ביטוח סיעוד"
+      ],
+      "search_intent": "informational",
+      "customer_journey_stage": "consideration",
+      "persona_alignment": "Both personas need for process clarity and success validation",
+      "content_type_recommendation": "service_page_with_faq",
+      "opportunity_assessment": {
+        "implementation_difficulty": "medium",
+        "business_value": "high",
+        "strategic_timing": "short-term",
+        "data_confidence": "partial-confirmed"
+      },
+      "rationale": "Combines credibility building with service information. Confirmed search volume (140 searches, $16.70 CPC) for 'תביעות ביטוח סיעוד' supports consideration stage research.",
+      "search_metrics": {
+        "monthly_searches": 140,
+        "cpc": 16.7,
+        "competition": "low"
+      },
+      "content_objectives": [
+        "Build credibility through success statistics",
+        "Clarify legal process timeline",
+        "Address process concerns",
+        "Support consideration stage research"
+      ],
+      "conversion_elements": [
+        "Success rate statistics",
+        "Process timeline infographic",
+        "Case study examples",
+        "FAQ integration"
+      ]
+    },
+    {
+      "cluster_name": "Cost & Risk Assessment",
+      "cluster_id": 6,
+      "primary_keyword": "כמה עולה עורך דין לביטוח סיעוד",
+      "supporting_keywords": [
+        "עלות ייעוץ משפטי ביטוח סיעוד",
+        "תשלום שלבים עורך דין ביטוח סיעוד",
+        "מה קורה אם מפסידים תביעת ביטוח סיעוד"
+      ],
+      "search_intent": "commercial",
+      "customer_journey_stage": "consideration_to_decision",
+      "persona_alignment": "Cost concerns for both personas, risk aversion for Yosef",
+      "content_type_recommendation": "faq_page",
+      "opportunity_assessment": {
+        "implementation_difficulty": "easy",
+        "business_value": "high",
+        "strategic_timing": "immediate",
+        "data_confidence": "business-priority"
+      },
+      "rationale": "Address financial concerns with transparent information to reduce barriers to engagement. Critical for converting cost-conscious prospects.",
+      "content_objectives": [
+        "Provide transparent pricing information",
+        "Address financial concerns",
+        "Explain payment structures",
+        "Mitigate risk concerns"
+      ],
+      "conversion_elements": [
+        "Clear pricing structure",
+        "No-win-no-fee emphasis",
+        "Payment options explanation",
+        "Risk mitigation assurance"
+      ]
+    },
+    {
+      "cluster_name": "Eligibility & Rights Education",
+      "cluster_id": 7,
+      "primary_keyword": "זכאות לביטוח סיעוד",
+      "supporting_keywords": [
+        "זכאות לביטוח סיעוד אלצהיימר",
+        "איך יודעים אם זכאי לביטוח סיעוד",
+        "זכויות קשיש ביטוח סיעוד",
+        "תנאי זכאות ביטוח סיעוד גיל שלישי"
+      ],
+      "search_intent": "informational",
+      "customer_journey_stage": "awareness_to_consideration",
+      "persona_alignment": "Both personas need for rights clarity and eligibility understanding",
+      "content_type_recommendation": "guide_resource",
+      "opportunity_assessment": {
+        "implementation_difficulty": "medium",
+        "business_value": "medium",
+        "strategic_timing": "short-term",
+        "data_confidence": "business-priority"
+      },
+      "rationale": "Educational content that builds authority while nurturing prospects toward consideration. Foundation for establishing expertise and trust.",
+      "content_objectives": [
+        "Educate on eligibility criteria",
+        "Clarify legal rights",
+        "Build topical authority",
+        "Nurture prospects toward consideration"
+      ],
+      "conversion_elements": [
+        "Eligibility checklist",
+        "Rights summary infographic",
+        "Professional consultation CTA",
+        "Case-specific guidance"
+      ]
+    },
+    {
+      "cluster_name": "System & Process Understanding",
+      "cluster_id": 8,
+      "primary_keyword": "איך עובד ביטוח סיעוד בישראל",
+      "supporting_keywords": [
+        "מה זה בדיקת תפקוד ביטוח סיעוד",
+        "בדיקת תפקוד ביטוח סיעוד",
+        "למה ביטוח סיעוד לא משלם אחרי שנים של תשלומים"
+      ],
+      "search_intent": "informational",
+      "customer_journey_stage": "awareness",
+      "persona_alignment": "Yosef's systematic approach and confusion resolution needs",
+      "content_type_recommendation": "blog_post",
+      "opportunity_assessment": {
+        "implementation_difficulty": "medium",
+        "business_value": "medium",
+        "strategic_timing": "long-term",
+        "data_confidence": "business-priority"
+      },
+      "rationale": "Educational content for early-stage awareness that establishes expertise and trust. Foundation content for SEO authority building.",
+      "content_objectives": [
+        "Explain complex insurance processes",
+        "Address common confusion points",
+        "Establish expertise and authority",
+        "Support early-stage awareness"
+      ],
+      "conversion_elements": [
+        "Process explanation graphics",
+        "Expert insight quotes",
+        "Professional guidance CTA",
+        "Related service links"
+      ]
+    },
+    {
+      "cluster_name": "Professional Credentials & Selection",
+      "cluster_id": 9,
+      "primary_keyword": "עורך דין מוסמך ביטוח סיעוד רישיון",
+      "supporting_keywords": [
+        "עורך דין לענייני ביטוח",
+        "עורך דין ביטוחים"
+      ],
+      "search_intent": "informational",
+      "customer_journey_stage": "consideration",
+      "persona_alignment": "Yosef's thorough evaluation approach and credential verification needs",
+      "content_type_recommendation": "service_page_about_credentials",
+      "opportunity_assessment": {
+        "implementation_difficulty": "easy",
+        "business_value": "medium",
+        "strategic_timing": "immediate",
+        "data_confidence": "business-priority"
+      },
+      "rationale": "Professional qualification display that builds trust and differentiates from competitors. Essential for credibility establishment.",
+      "content_objectives": [
+        "Display professional qualifications",
+        "Build trust through credentials",
+        "Differentiate from competitors",
+        "Support evaluation process"
+      ],
+      "conversion_elements": [
+        "Bar association membership",
+        "Specialization certifications",
+        "Professional experience timeline",
+        "Credential verification links"
+      ]
+    },
+    {
+      "cluster_name": "Insurance Company-Specific",
+      "cluster_id": 10,
+      "primary_keyword": "ביטוח סיעוד",
+      "supporting_keywords": [
+        "ביטוח סיעודי הראל",
+        "ביטוח סיעוד מגיל",
+        "ביטוח סיעוד כלל",
+        "ביטוח סיעוד מנורה מבטחים"
+      ],
+      "search_intent": "commercial",
+      "customer_journey_stage": "awareness_to_consideration",
+      "persona_alignment": "Research phase for both personas",
+      "content_type_recommendation": "blog_posts_company_specific",
+      "opportunity_assessment": {
+        "implementation_difficulty": "medium",
+        "business_value": "high",
+        "strategic_timing": "short-term",
+        "data_confidence": "confirmed"
+      },
+      "rationale": "Target searchers researching specific insurance companies while positioning legal services. High search volume (3,600 searches) with confirmed metrics.",
+      "search_metrics": {
+        "monthly_searches": 3600,
+        "cpc": 2.53,
+        "competition": "medium",
+        "difficulty": 18
+      },
+      "content_objectives": [
+        "Capture broad market interest",
+        "Position legal services for company-specific issues",
+        "Build topical authority",
+        "Support awareness stage research"
+      ],
+      "conversion_elements": [
+        "Company-specific legal insights",
+        "Common claim issues by company",
+        "Legal support availability",
+        "Consultation booking for company issues"
+      ]
+    },
+    {
+      "cluster_name": "Family Decision Support",
+      "cluster_id": 11,
+      "primary_keyword": "ההורים שלי צריכים עורך דין ביטוח סיעוד",
+      "supporting_keywords": [
+        "לפנות לעורך דין ביטוח סיעוד כן או לא"
+      ],
+      "search_intent": "commercial",
+      "customer_journey_stage": "consideration_to_decision",
+      "persona_alignment": "Family dynamics for both personas",
+      "content_type_recommendation": "blog_post",
+      "opportunity_assessment": {
+        "implementation_difficulty": "easy",
+        "business_value": "medium",
+        "strategic_timing": "short-term",
+        "data_confidence": "business-priority"
+      },
+      "rationale": "Address family decision-making concerns while guiding toward professional consultation. Targets family member searches with emotional guidance.",
+      "content_objectives": [
+        "Address family decision concerns",
+        "Guide family members through evaluation",
+        "Provide decision framework",
+        "Encourage professional consultation"
+      ],
+      "conversion_elements": [
+        "Family decision checklist",
+        "When to seek legal help guide",
+        "Family consultation option",
+        "Support resource links"
+      ]
+    }
+  ],
+  "implementation_roadmap": {
+    "immediate_priority": [
+      {
+        "cluster_id": 2,
+        "cluster_name": "Professional Service Discovery",
+        "content_type": "service_page",
+        "rationale": "Core revenue driver with confirmed high CPC"
+      },
+      {
+        "cluster_id": 3,
+        "cluster_name": "Initial Consultation & Contact",
+        "content_type": "landing_page",
+        "rationale": "Highest conversion potential"
+      },
+      {
+        "cluster_id": 6,
+        "cluster_name": "Cost & Risk Assessment",
+        "content_type": "faq_page",
+        "rationale": "Removes conversion barriers"
+      }
+    ],
+    "short_term_priority": [
+      {
+        "cluster_id": 1,
+        "cluster_name": "Claim Denial Crisis Response",
+        "content_type": "blog_post_guide",
+        "rationale": "High conversion potential for distressed clients"
+      },
+      {
+        "cluster_id": 4,
+        "cluster_name": "Local Market Targeting",
+        "content_type": "landing_pages_location_specific",
+        "rationale": "Reduced local competition"
+      },
+      {
+        "cluster_id": 5,
+        "cluster_name": "Legal Process & Success Metrics",
+        "content_type": "service_page_with_faq",
+        "rationale": "Confirmed search volume supports credibility building"
+      },
+      {
+        "cluster_id": 10,
+        "cluster_name": "Insurance Company-Specific",
+        "content_type": "blog_posts_company_specific",
+        "rationale": "High search volume opportunity"
+      }
+    ],
+    "long_term_development": [
+      {
+        "cluster_id": 7,
+        "cluster_name": "Eligibility & Rights Education",
+        "content_type": "guide_resource",
+        "rationale": "Authority building and lead nurturing"
+      },
+      {
+        "cluster_id": 8,
+        "cluster_name": "System & Process Understanding",
+        "content_type": "blog_post",
+        "rationale": "Foundation content for SEO authority"
+      },
+      {
+        "cluster_id": 9,
+        "cluster_name": "Professional Credentials & Selection",
+        "content_type": "service_page_about_credentials",
+        "rationale": "Trust building and differentiation"
+      },
+      {
+        "cluster_id": 11,
+        "cluster_name": "Family Decision Support",
+        "content_type": "blog_post",
+        "rationale": "Family member search targeting"
+      }
+    ]
+  },
+  "success_metrics": {
+    "business_metrics": [
+      "Lead generation from high-priority clusters (1, 2, 3)",
+      "Consultation booking rates from landing pages",
+      "Geographic market penetration (Cluster 4)"
+    ],
+    "seo_metrics": [
+      "Rankings for confirmed high-value keywords",
+      "Organic traffic growth from authority content",
+      "Local search visibility improvements"
+    ],
+    "content_metrics": [
+      "Engagement with educational content",
+      "Conversion rate optimization for service pages",
+      "FAQ page effectiveness in reducing barriers"
+    ]
+  }
+}
