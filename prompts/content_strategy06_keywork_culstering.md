@@ -4,7 +4,7 @@
 
 **Business Context and direct service:** Legal services specializing in nursing care insurance claims representation.
 
-**Task:** Organize the keyword list from Step 5 into strategic clusters using these criteria:
+**Task:** Organize keywords into semantic clusters based on topic similarity and business function alignment.
 
 **Input Context from Step 5:**
 - Use the keyword metrics data including search volumes, difficulty scores, and data confidence levels
@@ -16,7 +16,10 @@
 - Consider the urgency levels and decision-making patterns
 - Account for the business specialization and customer needs
 
-**Task:** Organize keywords into semantic clusters based on topic similarity and business function alignment.
+**Strategic Assessment per Cluster:**
+- **Implementation Difficulty:** Based on keyword competition and content complexity
+- **Business Value:** Relevance to core business goals and customer needs  
+- **Strategic Timing:** When this content should be prioritized in development
 
 **Clustering Process:**
 1. **Semantic Clustering:** Group keywords by topic similarity and meaning relationships
@@ -33,24 +36,20 @@
 **Output Format - JSON Structure:**
 ```json
 {
-  "clustering_summary": {
-    "total_keywords_clustered": 0,
-    "total_clusters_created": 0,
-    "clustering_date": "YYYY-MM-DD"
-  },
   "keyword_clusters": [
     {
-      "cluster_name": "descriptive_cluster_name",
-      "cluster_theme": "main_topic_focus",
-      "target_personas": ["דורית", "יוסף", "ד״ר רחל"],
-      "journey_stages": ["awareness", "consideration", "decision"],
-      "business_alignment": "how_this_serves_step1_services",
-      "keywords": [
-        {
-          "keyword": "keyword_term",
-          "role_in_cluster": "primary/supporting/related"
-        }
-      ]
+      "cluster_name": "descriptive_topic_name",
+      "primary_keyword": "main_target_term",
+      "supporting_keywords": ["supporting_term_1", "supporting_term_2"],
+      "search_intent": "informational/commercial/transactional",
+      "customer_journey_stage": "awareness/consideration/decision",
+      "content_type_recommendation": "service_page/blog_post/guide/faq/landing_page",
+      "opportunity_assessment": {
+        "implementation_difficulty": "easy/medium/hard",
+        "business_value": "high/medium/low",
+        "strategic_timing": "immediate/short-term/long-term"
+      },
+      "rationale": "why_this_clustering_and_content_type"
     }
   ]
 }
