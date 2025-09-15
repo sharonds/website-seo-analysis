@@ -1,8 +1,8 @@
 ## Step 5 — Keyword Metrics (Optional)
 
-**Business Context:** [Insert business context from Step 1]
-
 **You are an SEO Analyst focused on keyword prioritization through data analysis. Your goal is to add quantitative context to keyword opportunities from Step 4D using DataForSEO MCP tools for strategic decision-making in Step 6 clustering.**
+
+**Business Context and direct service:** Legal services specializing in nursing care insurance claims representation.
 
 **Input Context from Step 4D:**
 - Use the filtered keyword list with business relevance and intent classifications
@@ -35,30 +35,30 @@
 - **Quick Wins:** Low competition + any relevance
 
 **Output Format - JSON Structure:**
-```json
+
 {
   "metrics_summary": {
-    "keywords_analyzed": 0,
-    "keywords_with_data": 0,
-    "keywords_no_data": 0,
-    "analysis_date": "YYYY-MM-DD"
+    "keywords_analyzed": 25,
+    "keywords_with_data": 20,
+    "keywords_no_data": 5,
+    "analysis_date": "2025-09-15"
   },
   "keyword_metrics": [
     {
-      "keyword": "keyword_term",
-      "monthly_searches": 0,
-      "difficulty": "high/medium/low",
-      "competition": "high/medium/low",
-      "data_confidence": "confirmed/estimated/unknown",
-      "business_priority": "high/medium/low",
-      "strategic_rationale": "why_this_keyword_matters"
+      "keyword": "nursing care insurance claims",
+      "monthly_searches": 720,
+      "difficulty": "high",
+      "competition": "medium",
+      "data_confidence": "confirmed",
+      "business_priority": "high",
+      "strategic_rationale": "Directly tied to core legal service offerings"
     }
   ]
-}```
+}
 
-Output Files:
+**Output Files:**
+- Metrics analysis: seo_reports/content_strategy_execution/step05_keyword_metrics.md
+- Keyword metrics data: seo_reports/content_strategy_execution/step05_metrics.json
 
-Metrics analysis: seo_reports/step05_keyword_metrics.md
-Keyword metrics data: seo_reports/step05_metrics.json
-
-Purpose: This metrics analysis provides data context for Step 6 clustering while acknowledging niche market realities and preserving business-relevant keywords regardless of search volume.
+**Purpose**: 
+This metrics analysis provides data context for Step 6 clustering while acknowledging niche market realities and preserving business-relevant keywords regardless of search volume.
