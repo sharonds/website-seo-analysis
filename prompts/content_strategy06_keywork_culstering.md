@@ -2,46 +2,62 @@
 
 **You are an SEO Strategist specializing in keyword organization and content planning. Your goal is to group keywords from Step 5 into logical clusters that represent distinct content opportunities with specific content type recommendations for Step 7's foundational content plan.**
 
+**Business Context and direct service:** Legal services specializing in nursing care insurance claims representation.
+
 **Task:** Organize the keyword list from Step 5 into strategic clusters using these criteria:
 
-**Clustering Methodology:**
-- **Semantic Similarity:** Keywords that address the same core topic or concept
-- **Search Intent Alignment:** Keywords with similar user intent and expectations
-- **Content Compatibility:** Keywords that would naturally fit in the same piece of content
-- **Customer Journey Stage:** Group by awareness, consideration, or decision stage relevance
+**Input Context from Step 5:**
+- Use the keyword metrics data including search volumes, difficulty scores, and data confidence levels
+- Reference keywords with confirmed data vs business-priority keywords
+- Consider the competition assessment for each keyword
 
-**Cluster Structure:**
-- **Primary Keyword:** The main target term for each cluster
-- **Secondary Keywords:** Supporting terms that can be naturally included
-- **Long-tail Variations:** Specific phrases that expand the topic
-- **Intent Classification:** What user need does this cluster address?
-- **Content Type Recommendation:** Best format for this keyword cluster
+**Input Context from Step 2 & 3:**
+- Reference the persona characteristics and journey stages
+- Consider the urgency levels and decision-making patterns
+- Account for the business specialization and customer needs
 
-**Content Type Decision Framework:**
-- **Service Pages:** Commercial intent keywords, direct service terms
-- **Blog Posts:** Informational keywords, how-to queries, educational topics
-- **FAQ Pages:** Question-based keywords, common concerns, troubleshooting
-- **Guides/Resources:** Comprehensive topics, multi-step processes, detailed explanations
-- **Landing Pages:** High-intent conversion terms, specific service requests
+**Task:** Organize keywords into semantic clusters based on topic similarity and business function alignment.
 
-**Organization Principles:**
-- Each cluster should represent one potential piece of content
-- Avoid keyword cannibalization by keeping similar intent terms together
-- Match content type to search intent and user expectations
-- Consider logical content depth for each cluster and format
+**Clustering Process:**
+1. **Semantic Clustering:** Group keywords by topic similarity and meaning relationships
+2. **Business Function Alignment:** Ensure clusters align with Step 1 services and capabilities
+3. **Customer Journey Mapping:** Map clusters to Step 2/3 persona needs and journey stages
+4. **Cluster Definition:** Name and describe each cluster theme
 
-**Quality Standards:**
-- Minimum 3-5 keywords per cluster (unless standalone high-value terms)
-- Clear thematic connection between clustered keywords
-- Content type aligns with keyword intent and business goals
-- Actionable groupings with clear format recommendations
+**Clustering Criteria:**
+- **Semantic Similarity:** Keywords should share common themes or intent
+- **Business Alignment:** Clusters must tie back to Step 1 services and Step 2/3 personas
+- **Actionable Groupings:** Each cluster should represent a cohesive topic area
+- **Customer Relevance:** Clusters should address real customer needs from Step 3 journey mapping
 
-**Output Format:** Create named cluster groups with:
-- Descriptive cluster name/topic
-- Primary keyword identification
-- List of secondary and supporting keywords
-- **Recommended content type** (service page, blog post, FAQ, guide, landing page)
-- Customer journey stage alignment
-- Brief rationale for content type choice
+**Output Format - JSON Structure:**
+```json
+{
+  "clustering_summary": {
+    "total_keywords_clustered": 0,
+    "total_clusters_created": 0,
+    "clustering_date": "YYYY-MM-DD"
+  },
+  "keyword_clusters": [
+    {
+      "cluster_name": "descriptive_cluster_name",
+      "cluster_theme": "main_topic_focus",
+      "target_personas": ["דורית", "יוסף", "ד״ר רחל"],
+      "journey_stages": ["awareness", "consideration", "decision"],
+      "business_alignment": "how_this_serves_step1_services",
+      "keywords": [
+        {
+          "keyword": "keyword_term",
+          "role_in_cluster": "primary/supporting/related"
+        }
+      ]
+    }
+  ]
+}
+```
+
+**Output Files:**
+- Metrics analysis: seo_reports/content_strategy_execution/step06_clustering.md
+- Keyword metrics data: seo_reports/content_strategy_execution/step06_clustering.json
 
 **Purpose:** These clusters with content type recommendations will directly translate into the structured content plan in Step 7, ensuring each piece has the optimal format for its keyword intent and user needs.
