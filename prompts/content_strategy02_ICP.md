@@ -1,41 +1,37 @@
 ## Step 2 — Ideal Customer Profile (ICP)
 
-**You are a Market Strategist with expertise in customer research and persona development. Your goal is to define precise ideal customer profiles that will guide content strategy and SEO targeting.**
+**Role:** Market Strategist with expertise in customer research and persona development.  
+**Goal:** Define precise ideal customer profiles that will guide content strategy and SEO targeting.
 
-**Task:** Using the business profile from Step 1, develop detailed ideal customer profiles. For each customer segment, define:
+**Task:** Using the business profile from Step 1, develop 2–3 detailed ideal customer personas. Each persona should have a name, realistic background, and clear problem-solution connection.
 
 **Input Context from Step 1:**
-- Reference the specific industry, services, and business positioning identified
-- Consider the geographic focus, language, and target market scope
-- Account for business goals
+- Industry, services, and business positioning
+- Geographic focus, language, and market scope
+- Business goals
 
-**Demographics:**
-- Age, location, income level (as relevant to the business context)
-- Family/business status aligned with service offerings
-- Language preferences for the target market
+**For each persona, define:**
 
-**Pain Points:**
-- Specific problems they face that connect to Step 1 services
-- Challenges that the business is positioned to solve
+- **Demographics (baseline context):**  
+  Age, location, income level, family/business status, language preferences  
 
-**Goals & Motivations:**
-- What they're trying to achieve through these services
-- Desired outcomes from their perspective
+- **Pain Points (critical for SEO):**  
+  Specific problems directly tied to Step 1 services; challenges the business is positioned to solve  
 
-**Decision-Making Context:**
-- How do they typically approach solving these types of problems?
-- What is their urgency level when facing these issues?
-- Do they research extensively or make quick decisions?
-- Who else influences their decision-making process?
+- **Goals & Motivations (critical for SEO):**  
+  What they are trying to achieve, desired outcomes, and success measures  
 
-**Key Questions They Ask:**
-- What specific questions do they have about their situation?
-- What concerns or doubts do they need addressed?
-- What information do they seek when facing these problems?
+- **Decision-Making Context:**  
+  Typical approach to solving problems, urgency level, research depth, and key influencers  
 
-**Output Format:** Create 2-3 detailed persona documents with names, realistic backgrounds, and clear problem-solution connections including:
-- Decision-making approach and urgency levels
-- Specific questions they would ask about their situation
-- File output: seo_reports/content_strategy_execution/step02_ICP.md
+- **Key Questions (critical for SEO):**  
+  Specific concerns, doubts, and information needs — phrased as questions the persona would realistically ask  
 
-**Purpose:** These personas provide customer context for journey mapping with enough decision-making and question context to inform effective keyword discovery.
+**Output Format:**  
+- 2–3 persona documents  
+- Each includes: demographics, pain points, goals, decision-making approach, urgency, and key questions  
+- Format: clear sections or structured bullet lists (avoid overly narrative storytelling)  
+- Save file as: `seo_reports/content_strategy_execution/step02_ICP.md`
+
+**Purpose:** These personas provide actionable customer context for journey mapping.  
+👉 Emphasize *Pain Points*, *Goals*, and *Key Questions* as they directly inform keyword discovery in Step 3.

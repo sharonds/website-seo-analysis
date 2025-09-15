@@ -25,7 +25,7 @@
 - Output Files: `seo_reports/content_strategy_execution/step04a_base_keywords.json`
 
 **Output Format - JSON Structure:**
-```json
+
 {
   "base_keyword_summary": {
     "total_queries_extracted": 0,
@@ -44,11 +44,11 @@
       "source": "step3_journey_mapping"
     }
   ]
-}```
+}
 
 ## Output Files:
+- Base list analysis: seo_reports/content_strategy_execution/step04a_base_keywords.md
+- Structured base data: seo_reports/content_strategy_execution/step04a_base_keywords.json
 
-Base list analysis: seo_reports/content_strategy_execution/step04a_base_keywords.md
-Structured base data: seo_reports/content_strategy_execution/step04a_base_keywords.json
-
-Purpose: This base list provides the authentic customer language foundation that will be expanded in Phase 2 and filtered in Phase 3, ensuring all keyword discovery remains grounded in real customer search behavior.
+**Purpose:**
+ This base list provides the authentic customer language foundation that will be expanded in Phase 2 and filtered in Phase 3, ensuring all keyword discovery remains grounded in real customer search behavior.
