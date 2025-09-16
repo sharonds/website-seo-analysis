@@ -40,8 +40,3 @@ Step 7 — Foundational Content Plan
 * Goal: Translate keyword clusters into a starter content plan for a weak or empty site.
 * Task: Define 3–5 content pillars, map them to funnel stages, recommend content types, prioritize quick wins, and suggest 10–15 content ideas.
 * Business Logic: This step transforms all previous research into an actionable plan. The focus is on creating a strong foundation: building topical authority quickly and giving the business practical next steps to execute.
-
----
-
-## Persona artifacts
-- Detailed personas created and saved to `business_logic/personas.md` (3 target customers: older post-op patients, busy office workers with back/neck pain, and family caregivers). This file contains specific search queries, content needs, and quick content opportunities.
