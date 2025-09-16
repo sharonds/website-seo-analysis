@@ -9,6 +9,7 @@
 - Consider their decision-making approach and urgency levels
 - Use the key questions they ask about their situation
 - Account for their language preferences and formality levels
+- reference to our extract primary business location from Step 1 business profile 
 
 **Awareness Stage:**
 - What initial problems or pain points trigger their need? (reference Step 2 pain points)
@@ -35,11 +36,11 @@
 - Reflect cultural and demographic factors from Step 2
 - Always connect queries directly back to the pain points and key questions from Step 2 to ensure coverage of all critical customer needs.
 
-**Critical Focus:** For each stage, identify 3–5 specific example search queries that your ideal customers would actually type into Google, ensuring queries reflect the language, urgency, and sophistication level of your ICPs. Include at least one urgent/high-stress query and one calm/neutral query per stage.
+**Critical Focus:** For each stage, identify 4-6 specific example search queries that your ideal customers would actually type into Google, ensuring queries reflect the language, urgency, and sophistication level of your ICPs. Include at least one urgent/high-stress query and one calm/neutral query per stage.
 
 **Output Format:** Create a journey map for each ICP showing:
 - Customer mindset and emotional state at each stage
-- 3-5 realistic search query examples per stage
+- 4-6 realistic search query examples per stage
 - Content needs that address stage-specific concerns
 - Decision triggers that move them to the next stage
 - Urgency indicators and timeline expectations

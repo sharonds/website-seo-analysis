@@ -1,17 +1,17 @@
 {
   "base_keyword_summary": {
-    "total_queries_extracted": 45,
-    "personas_covered": 3,
+    "total_queries_extracted": 30,
+    "personas_covered": 2,
     "journey_stages": ["awareness", "consideration", "decision"],
     "source": "step3_customer_journey",
     "extraction_date": "2025-09-12",
-    "notes": "Direct verbatim extraction of all Step 3 journey search queries prior to any expansion or metrics collection."
+    "notes": "Direct verbatim extraction of all Step 3 journey search queries from 2 active personas (Dr. Rachel removed per ICP update)"
   },
   "base_keywords": [
     {"keyword": "למה חברת ביטוח דוחה תביעה לסיעוד", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "high", "language_level": "conversational", "source": "step3_journey_mapping"},
     {"keyword": "ביטוח סיעוד נדחה מה לעשות", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "high", "language_level": "conversational", "source": "step3_journey_mapping"},
-    {"keyword": "זכאות לביטוח סיעוד אלצהיימר", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping"},
     {"keyword": "תביעת ביטוח סיעוד דחייה", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "high", "language_level": "conversational", "source": "step3_journey_mapping"},
+    {"keyword": "זכאות לביטוח סיעוד אלצהיימר", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping"},
     {"keyword": "איך יודעים אם זכאי לביטוח סיעוד", "persona": "דורית", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping"},
     {"keyword": "עורך דין ביטוח סיעוד המלצות", "persona": "דורית", "journey_stage": "consideration", "intent": "commercial", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping"},
     {"keyword": "כמה עולה עורך דין לביטוח סיעוד", "persona": "דורית", "journey_stage": "consideration", "intent": "commercial", "urgency": "medium", "language_level": "conversational", "source": "step3_journey_mapping"},
@@ -37,21 +37,6 @@
     {"keyword": "פגישה אישית עורך דין ביטוח סיעוד", "persona": "יוסף", "journey_stage": "decision", "intent": "transactional", "urgency": "high", "language_level": "formal", "source": "step3_journey_mapping"},
     {"keyword": "עורך דין משה תבו טלפון", "persona": "יוסף", "journey_stage": "decision", "intent": "transactional", "urgency": "high", "language_level": "formal", "source": "step3_journey_mapping"},
     {"keyword": "תשלום שלבים עורך דין ביטוח סיעוד", "persona": "יוסף", "journey_stage": "decision", "intent": "informational", "urgency": "medium", "language_level": "formal", "source": "step3_journey_mapping"},
-    {"keyword": "הילדים שלי צריכים להיות בפגישה עם עורך דין", "persona": "יוסף", "journey_stage": "decision", "intent": "informational", "urgency": "medium", "language_level": "formal", "source": "step3_journey_mapping"},
-    {"keyword": "עורך דין מומחה ביטוח סיעוד בית חולים", "persona": "ד״ר רחל", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "professional", "source": "step3_journey_mapping"},
-    {"keyword": "ייעוץ משפטי ביטוח סיעוד עבור עובדים סוציאליים", "persona": "ד״ר רחל", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "professional", "source": "step3_journey_mapping"},
-    {"keyword": "התמחות משפטית ביטוח סיעוד רפואי", "persona": "ד״ר רחל", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "professional", "source": "step3_journey_mapping"},
-    {"keyword": "עורכי דין ביטוח סיעוד רשימה מקצועית", "persona": "ד״ר רחל", "journey_stage": "awareness", "intent": "informational", "urgency": "low", "language_level": "professional", "source": "step3_journey_mapping"},
-    {"keyword": "רשת הפניות משפטיות ביטוח סיעוד", "persona": "ד״ר רחל", "journey_stage": "awareness", "intent": "informational", "urgency": "medium", "language_level": "professional", "source": "step3_journey_mapping"},
-    {"keyword": "עורך דין משה תבו אחוזי הצלחה ביטוח סיעוד", "persona": "ד״ר רחל", "journey_stage": "consideration", "intent": "informational", "urgency": "medium", "language_level": "professional", "source": "step3_journey_mapping"},
-    {"keyword": "המלצות רופאים עורכי דין ביטוח סיעוד", "persona": "ד״ר רחל", "journey_stage": "consideration", "intent": "informational", "urgency": "medium", "language_level": "professional", "source": "step3_journey_mapping"},
-    {"keyword": "שיתוף פעולה בית חולים עורך דין ביטוח סיעוד", "persona": "ד״ר רחל", "journey_stage": "consideration", "intent": "informational", "urgency": "medium", "language_level": "professional", "source": "step3_journey_mapping"},
-    {"keyword": "ניסיון עם מקרים מורכבים ביטוח סיעוד", "persona": "ד״ר רחל", "journey_stage": "consideration", "intent": "informational", "urgency": "medium", "language_level": "professional", "source": "step3_journey_mapping"},
-    {"keyword": "הדרכות מקצועיות ביטוח סיעוד לצוות רפואי", "persona": "ד״ר רחל", "journey_stage": "consideration", "intent": "informational", "urgency": "low", "language_level": "professional", "source": "step3_journey_mapping"},
-    {"keyword": "יצירת קשר מקצועי עורך דין ביטוח סיעוד", "persona": "ד״ר רחל", "journey_stage": "decision", "intent": "transactional", "urgency": "high", "language_level": "professional", "source": "step3_journey_mapping"},
-    {"keyword": "פרוטוקול הפניות משפטיות ביטוח סיעוד", "persona": "ד״ר רחל", "journey_stage": "decision", "intent": "informational", "urgency": "medium", "language_level": "professional", "source": "step3_journey_mapping"},
-    {"keyword": "הרצאות והדרכות ביטוח סיעוד לצוות רפואי", "persona": "ד״ר רחל", "journey_stage": "decision", "intent": "informational", "urgency": "medium", "language_level": "professional", "source": "step3_journey_mapping"},
-    {"keyword": "שיתוף פעולה מתמשך עורך דין בית חולים", "persona": "ד״ר רחל", "journey_stage": "decision", "intent": "commercial", "urgency": "medium", "language_level": "professional", "source": "step3_journey_mapping"},
-    {"keyword": "מעקב תיקים משפטיים ביטוח סיעוד", "persona": "ד״ר רחל", "journey_stage": "decision", "intent": "informational", "urgency": "medium", "language_level": "professional", "source": "step3_journey_mapping"}
+    {"keyword": "הילדים שלי צריכים להיות בפגישה עם עורך דין", "persona": "יוסף", "journey_stage": "decision", "intent": "informational", "urgency": "medium", "language_level": "formal", "source": "step3_journey_mapping"}
   ]
 }
