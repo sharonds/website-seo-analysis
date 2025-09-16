@@ -1,0 +1,445 @@
+{
+  "content_strategy_summary": {
+    "total_pillars": 4,
+    "total_priority_content": 14,
+    "strategic_focus": "foundation_building"
+  },
+  "content_pillars": [
+    {
+      "pillar_name": "Professional Legal Authority",
+      "strategic_purpose": "authority_building",
+      "target_journey_stage": "consideration",
+      "source_clusters": ["Professional Service Discovery", "Professional Credentials & Selection", "Initial Consultation & Contact"],
+      "pillar_description": "Establishes comprehensive legal expertise while creating clear conversion pathways, combining credibility signals with service positioning"
+    },
+    {
+      "pillar_name": "Crisis Resolution & Immediate Support",
+      "strategic_purpose": "conversion",
+      "target_journey_stage": "awareness",
+      "source_clusters": ["Claim Denial Crisis Response", "Cost & Risk Assessment"],
+      "pillar_description": "Captures high-urgency prospects while demonstrating immediate problem-solving expertise, balancing emotional support with professional guidance"
+    },
+    {
+      "pillar_name": "Educational Authority & Rights Advocacy",
+      "strategic_purpose": "foundation",
+      "target_journey_stage": "awareness",
+      "source_clusters": ["Eligibility & Rights Education", "System & Process Understanding", "Insurance Company-Specific"],
+      "pillar_description": "Builds comprehensive topical authority through educational content while positioning the practice as the definitive resource for nursing care insurance law"
+    },
+    {
+      "pillar_name": "Local Market Leadership",
+      "strategic_purpose": "conversion",
+      "target_journey_stage": "decision",
+      "source_clusters": ["Local Market Targeting", "Family Decision Support", "Legal Process & Success Metrics"],
+      "pillar_description": "Establishes local market dominance while addressing family-centered decision making, combining geographic targeting with family-focused messaging"
+    }
+  ],
+  "priority_content": [
+    {
+      "content_title": "Comprehensive Legal Services Hub",
+      "content_type": "service_page",
+      "target_cluster": "Professional Service Discovery",
+      "strategic_phase": "phase_1",
+      "business_priority": "high",
+      "prioritization_category": "foundation_content",
+      "content_relationships": {
+        "parent_content": null,
+        "child_content": ["Local Service Pages", "Consultation Landing Page", "Success Metrics Page", "FAQ Hub"],
+        "natural_connections": ["Credentials Page", "Process Guide", "Crisis Response Content"]
+      },
+      "resource_requirements": {
+        "complexity_level": "high",
+        "research_required": "extensive"
+      },
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["15+ years experience", "3,000+ successful cases", "professional bar credentials", "industry speaking engagements", "case study portfolio"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Free Consultation Page", "FAQ Hub", "Success Metrics", "Local Service Pages"],
+        "avoid_patterns": ["excessive_hub_linking", "unnatural_concentration"]
+      },
+      "dependencies": ["Success Data Compilation", "Credential Verification", "Process Documentation"],
+      "target_journey_stage": "consideration",
+      "rationale": "Core service page targeting highest-value commercial keyword ($41.68 CPC) while establishing comprehensive authority foundation for all other content"
+    },
+    {
+      "content_title": "Free Legal Consultation Landing Page",
+      "content_type": "landing_page",
+      "target_cluster": "Initial Consultation & Contact",
+      "strategic_phase": "phase_1",
+      "business_priority": "high",
+      "prioritization_category": "conversion_driver",
+      "content_relationships": {
+        "parent_content": "Comprehensive Legal Services Hub",
+        "child_content": ["Contact Form System", "Scheduling Integration"],
+        "natural_connections": ["FAQ Hub", "Local Service Pages", "Crisis Response Guide"]
+      },
+      "resource_requirements": {
+        "complexity_level": "medium",
+        "research_required": "moderate"
+      },
+      "content_quality": {
+        "content_depth": "targeted",
+        "authority_signals": ["immediate availability", "risk-free consultation", "professional response guarantee", "consultation process transparency"],
+        "minimum_scope": "standard"
+      },
+      "linking_approach": {
+        "primary_connections": ["All service content", "FAQ sections", "Crisis content"],
+        "avoid_patterns": ["unnatural link concentration", "over-optimization"]
+      },
+      "dependencies": ["Contact System Setup", "Scheduling Tool Integration", "Response Process Definition"],
+      "target_journey_stage": "decision",
+      "rationale": "Highest conversion intent targeting requires dedicated optimization for consultation booking conversion"
+    },
+    {
+      "content_title": "Comprehensive FAQ & Risk Assessment Hub",
+      "content_type": "faq",
+      "target_cluster": "Cost & Risk Assessment",
+      "strategic_phase": "phase_1",
+      "business_priority": "high",
+      "prioritization_category": "quick_win",
+      "content_relationships": {
+        "parent_content": "Comprehensive Legal Services Hub",
+        "child_content": [],
+        "natural_connections": ["Consultation Landing Page", "Success Metrics Page", "Local Service Pages"]
+      },
+      "resource_requirements": {
+        "complexity_level": "low",
+        "research_required": "minimal"
+      },
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["transparent pricing", "risk assessment expertise", "payment flexibility", "legal process clarity"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Service pages", "Consultation page", "Educational content"],
+        "avoid_patterns": ["excessive commercial linking", "manipulation"]
+      },
+      "dependencies": ["Pricing Structure Finalization", "Risk Assessment Documentation"],
+      "target_journey_stage": "consideration",
+      "rationale": "Removes conversion barriers by addressing cost concerns while building authority through comprehensive question coverage"
+    },
+    {
+      "content_title": "Claim Denial Crisis Response Guide",
+      "content_type": "guide",
+      "target_cluster": "Claim Denial Crisis Response",
+      "strategic_phase": "phase_1",
+      "business_priority": "high",
+      "prioritization_category": "authority_builder",
+      "content_relationships": {
+        "parent_content": null,
+        "child_content": [],
+        "natural_connections": ["Rights Education Guide", "Service Pages", "FAQ Hub", "Insurance Company Guides"]
+      },
+      "resource_requirements": {
+        "complexity_level": "high",
+        "research_required": "extensive"
+      },
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["legal expertise", "case study examples", "step-by-step guidance", "regulatory citations", "success story integration"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Service pages", "Consultation page", "FAQ hub", "Educational guides"],
+        "avoid_patterns": ["keyword stuffing", "unnatural commercial focus"]
+      },
+      "dependencies": ["Legal Process Documentation", "Case Study Collection", "Regulatory Research"],
+      "target_journey_stage": "awareness",
+      "rationale": "Captures distressed prospects at peak motivation while establishing crisis management authority"
+    },
+    {
+      "content_title": "Professional Credentials & Expertise Showcase",
+      "content_type": "service_page",
+      "target_cluster": "Professional Credentials & Selection",
+      "strategic_phase": "phase_1",
+      "business_priority": "medium",
+      "prioritization_category": "foundation_content",
+      "content_relationships": {
+        "parent_content": "Comprehensive Legal Services Hub",
+        "child_content": [],
+        "natural_connections": ["Success Metrics Page", "All Service Pages", "Educational Content"]
+      },
+      "resource_requirements": {
+        "complexity_level": "low",
+        "research_required": "minimal"
+      },
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["professional credentials", "bar membership", "specialization certifications", "speaking engagements", "industry recognition"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Service pages", "About section", "Educational content"],
+        "avoid_patterns": ["excessive self-promotion", "credential stuffing"]
+      },
+      "dependencies": ["Credential Documentation", "Professional History Compilation"],
+      "target_journey_stage": "consideration",
+      "rationale": "Essential trust building for systematic evaluators while supporting all service content credibility"
+    },
+    {
+      "content_title": "Petah Tikva Legal Services Hub",
+      "content_type": "landing_page",
+      "target_cluster": "Local Market Targeting",
+      "strategic_phase": "phase_2",
+      "business_priority": "high",
+      "prioritization_category": "conversion_driver",
+      "content_relationships": {
+        "parent_content": "Comprehensive Legal Services Hub",
+        "child_content": [],
+        "natural_connections": ["Haifa Legal Services", "Consultation Page", "Local Success Stories"]
+      },
+      "resource_requirements": {
+        "complexity_level": "medium",
+        "research_required": "moderate"
+      },
+      "content_quality": {
+        "content_depth": "targeted",
+        "authority_signals": ["local case studies", "regional expertise", "community involvement", "Petah Tikva-specific trust signals"],
+        "minimum_scope": "standard"
+      },
+      "linking_approach": {
+        "primary_connections": ["Main service hub", "Consultation page", "Regional content"],
+        "avoid_patterns": ["geographic keyword stuffing", "artificial local optimization"]
+      },
+      "dependencies": ["Local Case Study Collection", "Regional Market Research"],
+      "target_journey_stage": "decision",
+      "rationale": "Targets Dorit's geographic preference with reduced local competition for higher conversion rates"
+    },
+    {
+      "content_title": "Haifa Legal Services Hub",
+      "content_type": "landing_page",
+      "target_cluster": "Local Market Targeting",
+      "strategic_phase": "phase_2",
+      "business_priority": "high",
+      "prioritization_category": "conversion_driver",
+      "content_relationships": {
+        "parent_content": "Comprehensive Legal Services Hub",
+        "child_content": [],
+        "natural_connections": ["Petah Tikva Legal Services", "Consultation Page", "Northern Region Content"]
+      },
+      "resource_requirements": {
+        "complexity_level": "medium",
+        "research_required": "moderate"
+      },
+      "content_quality": {
+        "content_depth": "targeted",
+        "authority_signals": ["local case studies", "northern region expertise", "Haifa community involvement", "regional trust signals"],
+        "minimum_scope": "standard"
+      },
+      "linking_approach": {
+        "primary_connections": ["Main service hub", "Consultation page", "Regional resources"],
+        "avoid_patterns": ["excessive geographic optimization", "keyword manipulation"]
+      },
+      "dependencies": ["Northern Region Case Studies", "Haifa Market Research"],
+      "target_journey_stage": "decision",
+      "rationale": "Targets Yosef's geographic preference with reduced local competition for higher conversion rates"
+    },
+    {
+      "content_title": "Success Metrics & Legal Process Authority Page",
+      "content_type": "service_page",
+      "target_cluster": "Legal Process & Success Metrics",
+      "strategic_phase": "phase_2",
+      "business_priority": "high",
+      "prioritization_category": "authority_builder",
+      "content_relationships": {
+        "parent_content": "Comprehensive Legal Services Hub",
+        "child_content": [],
+        "natural_connections": ["FAQ Hub", "Credentials Page", "All Service Pages", "Process Guides"]
+      },
+      "resource_requirements": {
+        "complexity_level": "medium",
+        "research_required": "moderate"
+      },
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["success statistics", "case study portfolio", "process transparency", "timeline clarity", "outcome documentation"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Service pages", "Local pages", "FAQ hub", "Educational content"],
+        "avoid_patterns": ["excessive self-promotion", "unsupported claims"]
+      },
+      "dependencies": ["Success Data Compilation", "Process Documentation", "Case Study Development"],
+      "target_journey_stage": "consideration",
+      "rationale": "Builds credibility with confirmed search volume keyword (140 searches, $16.70 CPC) while supporting all service content"
+    },
+    {
+      "content_title": "Comprehensive Nursing Care Insurance Guide",
+      "content_type": "blog_post",
+      "target_cluster": "Insurance Company-Specific",
+      "strategic_phase": "phase_2",
+      "business_priority": "high",
+      "prioritization_category": "authority_builder",
+      "content_relationships": {
+        "parent_content": null,
+        "child_content": ["Company-Specific Guides", "Product Analysis Content"],
+        "natural_connections": ["Rights Education Guide", "System Understanding Guide", "Crisis Response Guide"]
+      },
+      "resource_requirements": {
+        "complexity_level": "high",
+        "research_required": "extensive"
+      },
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["industry expertise", "product knowledge", "regulatory understanding", "company analysis", "market insight"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Service pages", "Educational guides", "Company-specific content"],
+        "avoid_patterns": ["over-optimization for volume", "keyword stuffing"]
+      },
+      "dependencies": ["Insurance Product Research", "Company Policy Analysis", "Regulatory Study"],
+      "target_journey_stage": "awareness",
+      "rationale": "Targets highest volume keyword (3,600 searches) for broad market capture and comprehensive authority establishment"
+    },
+    {
+      "content_title": "Rights & Eligibility Comprehensive Guide",
+      "content_type": "guide",
+      "target_cluster": "Eligibility & Rights Education",
+      "strategic_phase": "phase_2",
+      "business_priority": "medium",
+      "prioritization_category": "authority_builder",
+      "content_relationships": {
+        "parent_content": null,
+        "child_content": [],
+        "natural_connections": ["System Understanding Guide", "Insurance Guide", "Crisis Response Guide", "Legal Process Content"]
+      },
+      "resource_requirements": {
+        "complexity_level": "medium",
+        "research_required": "moderate"
+      },
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["legal expertise", "regulatory knowledge", "rights advocacy", "eligibility analysis", "practical guidance"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Educational content", "Service pages", "Crisis content"],
+        "avoid_patterns": ["excessive linking to conversion pages", "commercial manipulation"]
+      },
+      "dependencies": ["Legal Rights Research", "Eligibility Criteria Analysis"],
+      "target_journey_stage": "awareness",
+      "rationale": "Builds comprehensive authority while nurturing prospects through educational value, supporting long-term SEO positioning"
+    },
+    {
+      "content_title": "Family Decision Support & Guidance Hub",
+      "content_type": "blog_post",
+      "target_cluster": "Family Decision Support",
+      "strategic_phase": "phase_2",
+      "business_priority": "medium",
+      "prioritization_category": "quick_win",
+      "content_relationships": {
+        "parent_content": null,
+        "child_content": [],
+        "natural_connections": ["Service Pages", "FAQ Hub", "Consultation Page", "Local Services"]
+      },
+      "resource_requirements": {
+        "complexity_level": "low",
+        "research_required": "minimal"
+      },
+      "content_quality": {
+        "content_depth": "standard",
+        "authority_signals": ["family understanding", "decision guidance", "empathetic approach", "practical support", "process clarity"],
+        "minimum_scope": "standard"
+      },
+      "linking_approach": {
+        "primary_connections": ["Service pages", "Consultation page", "FAQ content"],
+        "avoid_patterns": ["manipulative emotional targeting", "excessive commercial focus"]
+      },
+      "dependencies": [],
+      "target_journey_stage": "consideration",
+      "rationale": "Addresses family-driven searches with clear guidance toward professional consultation, supporting family decision dynamics"
+    },
+    {
+      "content_title": "System & Process Understanding Authority Guide",
+      "content_type": "blog_post",
+      "target_cluster": "System & Process Understanding",
+      "strategic_phase": "phase_3",
+      "business_priority": "medium",
+      "prioritization_category": "foundation_content",
+      "content_relationships": {
+        "parent_content": null,
+        "child_content": [],
+        "natural_connections": ["Rights Education Guide", "Insurance Guide", "Process Authority Page"]
+      },
+      "resource_requirements": {
+        "complexity_level": "medium",
+        "research_required": "moderate"
+      },
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["system expertise", "process knowledge", "educational value", "practical insight", "professional guidance"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Educational content", "Service pages", "Authority content"],
+        "avoid_patterns": ["excessive technical complexity", "inaccessible language"]
+      },
+      "dependencies": ["System Research Documentation", "Process Analysis"],
+      "target_journey_stage": "awareness",
+      "rationale": "Establishes foundational expertise for early-stage prospects, particularly addressing Yosef's systematic approach needs"
+    },
+    {
+      "content_title": "Company-Specific Insurance Analysis Hub",
+      "content_type": "blog_post",
+      "target_cluster": "Insurance Company-Specific",
+      "strategic_phase": "phase_3",
+      "business_priority": "medium",
+      "prioritization_category": "authority_builder",
+      "content_relationships": {
+        "parent_content": "Comprehensive Insurance Guide",
+        "child_content": ["Individual Company Analysis Posts"],
+        "natural_connections": ["Educational guides", "Service content", "Crisis response"]
+      },
+      "resource_requirements": {
+        "complexity_level": "high",
+        "research_required": "extensive"
+      },
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["company expertise", "product analysis", "market knowledge", "comparative insight", "professional evaluation"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Parent insurance guide", "Service pages", "Educational content"],
+        "avoid_patterns": ["company favoritism", "biased analysis"]
+      },
+      "dependencies": ["Company Research", "Product Analysis", "Market Study"],
+      "target_journey_stage": "awareness",
+      "rationale": "Extends authority coverage to specific company searches while maintaining educational value and professional objectivity"
+    },
+    {
+      "content_title": "Advanced Legal Strategy & Case Study Showcase",
+      "content_type": "service_page",
+      "target_cluster": "Professional Service Discovery",
+      "strategic_phase": "phase_3",
+      "business_priority": "low",
+      "prioritization_category": "authority_builder",
+      "content_relationships": {
+        "parent_content": "Comprehensive Legal Services Hub",
+        "child_content": [],
+        "natural_connections": ["Success Metrics Page", "Credentials Page", "Case Study Content"]
+      },
+      "resource_requirements": {
+        "complexity_level": "high",
+        "research_required": "extensive"
+      },
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["advanced strategy", "case study portfolio", "legal innovation", "professional excellence", "thought leadership"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Service hub", "Authority content", "Educational guides"],
+        "avoid_patterns": ["excessive self-promotion", "unsupported claims"]
+      },
+      "dependencies": ["Advanced Case Study Development", "Strategy Documentation"],
+      "target_journey_stage": "consideration",
+      "rationale": "Completes authority framework with advanced expertise demonstration for sophisticated prospects and competitive differentiation"
+    }
+  ]
+}

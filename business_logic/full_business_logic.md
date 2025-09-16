@@ -1,5 +1,3 @@
-Here's the revised complete business logic with inputs for each step:
-
 ## 🧩 Foundation SEO Recipe (v1.0) — Complete Strategy & Execution
 
 **Step 1 — Founder Intake → Business Profile**
