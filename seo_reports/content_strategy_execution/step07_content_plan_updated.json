@@ -9,174 +9,237 @@
       "pillar_name": "Professional Service Authority",
       "strategic_purpose": "conversion",
       "target_journey_stage": "consideration",
-      "source_clusters": ["cluster_2", "cluster_3", "cluster_9"],
-      "pillar_description": "Core service positioning and conversion optimization targeting high-intent commercial searches with credibility establishment"
+      "source_clusters": ["Professional Service Discovery", "Initial Consultation & Contact", "Professional Credentials"],
+      "pillar_description": "Establishes legal expertise credibility and converts prospects to consultations through service-focused content with clear value propositions and conversion pathways"
     },
     {
       "pillar_name": "Crisis Response & Problem Resolution",
-      "strategic_purpose": "conversion",
-      "target_journey_stage": "awareness",
-      "source_clusters": ["cluster_1", "cluster_6"],
-      "pillar_description": "High-urgency problem-solving content capturing distressed clients at peak motivation while removing financial barriers"
-    },
-    {
-      "pillar_name": "Educational Authority & System Understanding",
       "strategic_purpose": "authority_building",
       "target_journey_stage": "awareness",
-      "source_clusters": ["cluster_7", "cluster_8", "cluster_10", "cluster_5"],
-      "pillar_description": "Educational content foundation building topical authority while nurturing prospects and capturing high-volume searches"
+      "source_clusters": ["Claim Denial Crisis Response", "Cost & Risk Assessment"],
+      "pillar_description": "Captures distressed prospects at peak motivation while demonstrating problem-solving expertise and removing financial barriers to engagement"
     },
     {
-      "pillar_name": "Local Market Dominance & Family Support",
+      "pillar_name": "Educational Authority & Rights Advocacy",
       "strategic_purpose": "foundation",
+      "target_journey_stage": "awareness",
+      "source_clusters": ["Eligibility & Rights Education", "System & Process Understanding", "Insurance Company-Specific"],
+      "pillar_description": "Establishes comprehensive expertise in nursing care insurance law while capturing broad market searches and nurturing prospects through educational value"
+    },
+    {
+      "pillar_name": "Local Market Dominance",
+      "strategic_purpose": "conversion",
       "target_journey_stage": "decision",
-      "source_clusters": ["cluster_4", "cluster_11"],
-      "pillar_description": "Geographic SEO targeting with location-specific trust signals and family decision-making support"
+      "source_clusters": ["Local Market Targeting", "Legal Process & Success Metrics", "Family Decision Support"],
+      "pillar_description": "Captures geography-specific searches with localized trust signals while addressing family dynamics and decision-making processes common in nursing care legal needs"
     }
   ],
   "priority_content": [
     {
-      "content_title": "עורך דין ביטוח סיעוד מומחה",
+      "content_title": "Main Legal Services Page",
       "content_type": "service_page",
       "target_cluster": "Professional Service Discovery",
       "strategic_phase": "phase_1",
       "business_priority": "high",
-      "prioritization_category": "quick_win",
+      "prioritization_category": "foundation_content",
       "content_relationships": {
         "parent_content": null,
-        "child_content": ["consultation_landing_page", "credentials_page", "faq_page"],
-        "internal_links_to": ["consultation_landing_page", "credentials_page", "legal_process_overview"]
+        "child_content": ["Local Service Pages", "Consultation Landing Page", "FAQ Page"],
+        "natural_connections": ["Success Metrics Page", "Credentials Page"]
       },
       "resource_requirements": {
-        "complexity_level": "low",
-        "research_required": "minimal"
+        "complexity_level": "medium",
+        "research_required": "moderate"
       },
-      "dependencies": [],
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["15+ years experience", "3,000+ successful cases", "professional credentials", "industry recognition"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Consultation Page", "FAQ Page", "Success Metrics"],
+        "avoid_patterns": ["excessive_hub_linking"]
+      },
+      "dependencies": ["Success Metrics Content", "Credentials Verification"],
       "target_journey_stage": "consideration",
-      "rationale": "Core commercial terms with confirmed high CPC ($41.68) require immediate implementation as primary revenue driver"
+      "rationale": "Core service page targeting highest-value commercial keywords with confirmed CPC data ($41.68), essential foundation for all other content"
     },
     {
-      "content_title": "התייעצות ראשונית חינם - זמינות מיידית",
+      "content_title": "Free Consultation Landing Page",
       "content_type": "landing_page",
       "target_cluster": "Initial Consultation & Contact",
       "strategic_phase": "phase_1",
       "business_priority": "high",
       "prioritization_category": "conversion_driver",
       "content_relationships": {
-        "parent_content": "main_service_page",
-        "child_content": [],
-        "internal_links_to": ["main_service_page", "faq_page"]
+        "parent_content": "Main Legal Services Page",
+        "child_content": ["Contact Form", "Scheduling System"],
+        "natural_connections": ["FAQ Page", "Local Service Pages"]
       },
       "resource_requirements": {
         "complexity_level": "low",
         "research_required": "minimal"
       },
-      "dependencies": [],
+      "content_quality": {
+        "content_depth": "targeted",
+        "authority_signals": ["immediate availability", "no-risk consultation", "response time guarantees"],
+        "minimum_scope": "standard"
+      },
+      "linking_approach": {
+        "primary_connections": ["All service pages", "FAQ page"],
+        "avoid_patterns": ["unnatural_concentration"]
+      },
+      "dependencies": ["Contact System Setup", "Scheduling Integration"],
       "target_journey_stage": "decision",
-      "rationale": "Highest potential for consultation bookings with transactional search intent and direct conversion focus"
+      "rationale": "Highest conversion intent keywords require dedicated landing page for consultation booking optimization"
     },
     {
-      "content_title": "עלויות ייעוץ משפטי וניהול סיכונים",
+      "content_title": "Cost & Risk FAQ Page",
       "content_type": "faq",
       "target_cluster": "Cost & Risk Assessment",
       "strategic_phase": "phase_1",
       "business_priority": "high",
-      "prioritization_category": "foundation_content",
+      "prioritization_category": "quick_win",
       "content_relationships": {
-        "parent_content": "main_service_page",
+        "parent_content": "Main Legal Services Page",
         "child_content": [],
-        "internal_links_to": ["consultation_landing_page", "main_service_page"]
-      },
-      "resource_requirements": {
-        "complexity_level": "low",
-        "research_required": "moderate"
-      },
-      "dependencies": [],
-      "target_journey_stage": "consideration",
-      "rationale": "Addresses financial concerns critical for both personas' decision-making and removes conversion barriers"
-    },
-    {
-      "content_title": "רישיון, הסמכות ו-15 שנות ניסיון",
-      "content_type": "service_page",
-      "target_cluster": "Professional Credentials & Selection",
-      "strategic_phase": "phase_1",
-      "business_priority": "medium",
-      "prioritization_category": "foundation_content",
-      "content_relationships": {
-        "parent_content": "main_service_page",
-        "child_content": [],
-        "internal_links_to": ["main_service_page", "legal_process_overview"]
+        "natural_connections": ["Consultation Landing Page", "Success Metrics Page"]
       },
       "resource_requirements": {
         "complexity_level": "low",
         "research_required": "minimal"
       },
-      "dependencies": [],
+      "content_quality": {
+        "content_depth": "standard",
+        "authority_signals": ["transparent pricing", "risk explanation", "payment options"],
+        "minimum_scope": "standard"
+      },
+      "linking_approach": {
+        "primary_connections": ["Service pages", "Consultation page"],
+        "avoid_patterns": ["excessive_hub_linking"]
+      },
+      "dependencies": ["Pricing Structure Finalization"],
       "target_journey_stage": "consideration",
-      "rationale": "Essential for credibility establishment, especially important for Yosef's thorough evaluation approach"
+      "rationale": "Removes conversion barriers by addressing cost concerns transparently, supporting all other service content"
     },
     {
-      "content_title": "תביעה נדחתה? המדריך המלא לפעולה מיידית",
-      "content_type": "blog_post",
+      "content_title": "Claim Denial Crisis Guide",
+      "content_type": "guide",
       "target_cluster": "Claim Denial Crisis Response",
-      "strategic_phase": "phase_2",
+      "strategic_phase": "phase_1",
       "business_priority": "high",
       "prioritization_category": "authority_builder",
       "content_relationships": {
         "parent_content": null,
         "child_content": [],
-        "internal_links_to": ["consultation_landing_page", "faq_page", "legal_process_overview"]
+        "natural_connections": ["Rights Education Guide", "Service Pages", "FAQ Page"]
       },
       "resource_requirements": {
         "complexity_level": "medium",
         "research_required": "moderate"
       },
-      "dependencies": ["main_service_page", "consultation_landing_page"],
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["legal expertise", "case examples", "step-by-step guidance", "regulatory citations"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Service pages", "Consultation page", "FAQ page"],
+        "avoid_patterns": ["unnatural keyword stuffing"]
+      },
+      "dependencies": ["Legal Process Documentation"],
       "target_journey_stage": "awareness",
-      "rationale": "Captures Dorit's urgent scenario at peak motivation with strong conversion potential"
+      "rationale": "Captures distressed prospects at peak motivation while demonstrating expertise and building authority"
     },
     {
-      "content_title": "תהליך התביעה, זמנים ואחוזי הצלחה",
-      "content_type": "service_page",
-      "target_cluster": "Legal Process & Success Metrics",
-      "strategic_phase": "phase_2",
-      "business_priority": "high",
-      "prioritization_category": "authority_builder",
-      "content_relationships": {
-        "parent_content": "main_service_page",
-        "child_content": [],
-        "internal_links_to": ["main_service_page", "credentials_page", "consultation_landing_page"]
-      },
-      "resource_requirements": {
-        "complexity_level": "medium",
-        "research_required": "moderate"
-      },
-      "dependencies": ["main_service_page", "credentials_page"],
-      "target_journey_stage": "consideration",
-      "rationale": "Builds credibility through statistics while supporting consideration stage research for both personas"
-    },
-    {
-      "content_title": "עורך דין ביטוח סיעוד פתח תקווה",
+      "content_title": "Petah Tikva Legal Services Page",
       "content_type": "landing_page",
       "target_cluster": "Local Market Targeting",
       "strategic_phase": "phase_2",
       "business_priority": "high",
       "prioritization_category": "conversion_driver",
       "content_relationships": {
-        "parent_content": "main_service_page",
+        "parent_content": "Main Legal Services Page",
         "child_content": [],
-        "internal_links_to": ["main_service_page", "consultation_landing_page", "credentials_page"]
+        "natural_connections": ["Haifa Legal Services", "Consultation Page"]
       },
       "resource_requirements": {
         "complexity_level": "medium",
         "research_required": "moderate"
       },
-      "dependencies": ["main_service_page", "consultation_landing_page"],
+      "content_quality": {
+        "content_depth": "targeted",
+        "authority_signals": ["local case studies", "regional expertise", "community involvement"],
+        "minimum_scope": "standard"
+      },
+      "linking_approach": {
+        "primary_connections": ["Main service page", "Consultation page"],
+        "avoid_patterns": ["excessive geographic keyword stuffing"]
+      },
+      "dependencies": ["Local Case Study Collection"],
       "target_journey_stage": "decision",
-      "rationale": "Geographic targeting for Dorit's location with commercial intent and reduced competition"
+      "rationale": "Targets Dorit's geographic preference with reduced local competition for higher conversion rates"
     },
     {
-      "content_title": "ביטוח סיעוד: הראל, מנורה, מגדל, כלל והפניקס",
+      "content_title": "Haifa Legal Services Page",
+      "content_type": "landing_page",
+      "target_cluster": "Local Market Targeting",
+      "strategic_phase": "phase_2",
+      "business_priority": "high",
+      "prioritization_category": "conversion_driver",
+      "content_relationships": {
+        "parent_content": "Main Legal Services Page",
+        "child_content": [],
+        "natural_connections": ["Petah Tikva Legal Services", "Consultation Page"]
+      },
+      "resource_requirements": {
+        "complexity_level": "medium",
+        "research_required": "moderate"
+      },
+      "content_quality": {
+        "content_depth": "targeted",
+        "authority_signals": ["local case studies", "regional expertise", "community involvement"],
+        "minimum_scope": "standard"
+      },
+      "linking_approach": {
+        "primary_connections": ["Main service page", "Consultation page"],
+        "avoid_patterns": ["excessive geographic keyword stuffing"]
+      },
+      "dependencies": ["Local Case Study Collection"],
+      "target_journey_stage": "decision",
+      "rationale": "Targets Yosef's geographic preference with reduced local competition for higher conversion rates"
+    },
+    {
+      "content_title": "Success Metrics & Process Page",
+      "content_type": "service_page",
+      "target_cluster": "Legal Process & Success Metrics",
+      "strategic_phase": "phase_2",
+      "business_priority": "high",
+      "prioritization_category": "authority_builder",
+      "content_relationships": {
+        "parent_content": "Main Legal Services Page",
+        "child_content": [],
+        "natural_connections": ["FAQ Page", "Credentials Page", "Service Pages"]
+      },
+      "resource_requirements": {
+        "complexity_level": "medium",
+        "research_required": "moderate"
+      },
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["success statistics", "case studies", "process transparency", "timeline clarity"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Service pages", "Local pages", "FAQ page"],
+        "avoid_patterns": ["excessive self-promotion"]
+      },
+      "dependencies": ["Success Data Compilation", "Process Documentation"],
+      "target_journey_stage": "consideration",
+      "rationale": "Builds credibility with confirmed search volume keyword (140 searches, $16.70 CPC) while supporting all service content"
+    },
+    {
+      "content_title": "General Nursing Care Insurance Guide",
       "content_type": "blog_post",
       "target_cluster": "Insurance Company-Specific",
       "strategic_phase": "phase_2",
@@ -184,96 +247,141 @@
       "prioritization_category": "authority_builder",
       "content_relationships": {
         "parent_content": null,
-        "child_content": ["harel_specific_post", "menorah_specific_post", "migdal_specific_post", "clal_specific_post"],
-        "internal_links_to": ["main_service_page", "consultation_landing_page", "crisis_response_guide"]
+        "child_content": ["Company-Specific Blog Posts"],
+        "natural_connections": ["Rights Education Guide", "System Understanding Guide"]
       },
       "resource_requirements": {
-        "complexity_level": "medium",
+        "complexity_level": "high",
         "research_required": "extensive"
       },
-      "dependencies": ["main_service_page"],
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["industry expertise", "product knowledge", "regulatory understanding"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Service pages", "Rights guide", "Company-specific content"],
+        "avoid_patterns": ["over-optimization"]
+      },
+      "dependencies": ["Insurance Product Research"],
       "target_journey_stage": "awareness",
-      "rationale": "High search volume opportunity (3,600 monthly searches) for broad market capture and authority building"
+      "rationale": "Targets highest volume keyword (3,600 searches) for broad market capture and authority establishment"
     },
     {
-      "content_title": "זכאות לביטוח סיעוד: המדריך המלא לזכويותיכם",
+      "content_title": "Rights & Eligibility Education Guide",
       "content_type": "guide",
       "target_cluster": "Eligibility & Rights Education",
-      "strategic_phase": "phase_3",
+      "strategic_phase": "phase_2",
       "business_priority": "medium",
       "prioritization_category": "authority_builder",
       "content_relationships": {
         "parent_content": null,
         "child_content": [],
-        "internal_links_to": ["crisis_response_guide", "legal_process_overview", "consultation_landing_page"]
+        "natural_connections": ["System Understanding Guide", "General Insurance Guide", "Crisis Response Guide"]
       },
       "resource_requirements": {
         "complexity_level": "medium",
-        "research_required": "extensive"
+        "research_required": "moderate"
       },
-      "dependencies": ["legal_process_overview"],
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["legal expertise", "regulatory knowledge", "rights advocacy"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Service pages", "Related educational content"],
+        "avoid_patterns": ["excessive linking to conversion pages"]
+      },
+      "dependencies": ["Legal Rights Research"],
       "target_journey_stage": "awareness",
-      "rationale": "Educational foundation supporting both personas' need for rights clarity and lead nurturing"
+      "rationale": "Builds comprehensive authority while nurturing prospects through educational value, supporting long-term SEO positioning"
     },
     {
-      "content_title": "איך עובד ביטוח הסיעוד בישראל: מדריך מעשי",
+      "content_title": "System & Process Understanding Guide",
       "content_type": "blog_post",
       "target_cluster": "System & Process Understanding",
       "strategic_phase": "phase_3",
       "business_priority": "medium",
-      "prioritization_category": "authority_builder",
+      "prioritization_category": "foundation_content",
       "content_relationships": {
         "parent_content": null,
         "child_content": [],
-        "internal_links_to": ["eligibility_guide", "insurance_company_hub", "legal_process_overview"]
+        "natural_connections": ["Rights Education Guide", "General Insurance Guide"]
       },
       "resource_requirements": {
         "complexity_level": "medium",
-        "research_required": "extensive"
+        "research_required": "moderate"
       },
-      "dependencies": ["legal_process_overview", "eligibility_guide"],
+      "content_quality": {
+        "content_depth": "comprehensive",
+        "authority_signals": ["system expertise", "process knowledge", "educational value"],
+        "minimum_scope": "detailed"
+      },
+      "linking_approach": {
+        "primary_connections": ["Educational content", "Service pages"],
+        "avoid_patterns": ["excessive technical jargon"]
+      },
+      "dependencies": ["System Research Documentation"],
       "target_journey_stage": "awareness",
-      "rationale": "Addresses Yosef's systematic approach and confusion resolution needs while building SEO authority"
+      "rationale": "Establishes foundational expertise for early-stage prospects, particularly addressing Yosef's systematic approach needs"
     },
     {
-      "content_title": "המדריך למשפחות: מתי ואיך לפנות לייצוג משפטי",
+      "content_title": "Professional Credentials & Expertise Page",
+      "content_type": "service_page",
+      "target_cluster": "Professional Credentials & Selection",
+      "strategic_phase": "phase_3",
+      "business_priority": "medium",
+      "prioritization_category": "foundation_content",
+      "content_relationships": {
+        "parent_content": "Main Legal Services Page",
+        "child_content": [],
+        "natural_connections": ["Success Metrics Page", "All Service Pages"]
+      },
+      "resource_requirements": {
+        "complexity_level": "low",
+        "research_required": "minimal"
+      },
+      "content_quality": {
+        "content_depth": "standard",
+        "authority_signals": ["professional credentials", "experience documentation", "industry recognition"],
+        "minimum_scope": "standard"
+      },
+      "linking_approach": {
+        "primary_connections": ["Service pages", "About section"],
+        "avoid_patterns": ["excessive self-promotion"]
+      },
+      "dependencies": ["Credential Documentation"],
+      "target_journey_stage": "consideration",
+      "rationale": "Supports trust building for systematic evaluators like Yosef while differentiating from competitors"
+    },
+    {
+      "content_title": "Family Decision Support Guide",
       "content_type": "blog_post",
       "target_cluster": "Family Decision Support",
       "strategic_phase": "phase_3",
       "business_priority": "medium",
-      "prioritization_category": "authority_builder",
+      "prioritization_category": "quick_win",
       "content_relationships": {
         "parent_content": null,
         "child_content": [],
-        "internal_links_to": ["consultation_landing_page", "faq_page", "crisis_response_guide"]
+        "natural_connections": ["Service Pages", "FAQ Page", "Consultation Page"]
       },
       "resource_requirements": {
         "complexity_level": "low",
-        "research_required": "moderate"
+        "research_required": "minimal"
       },
-      "dependencies": ["crisis_response_guide", "faq_page"],
+      "content_quality": {
+        "content_depth": "standard",
+        "authority_signals": ["family understanding", "decision guidance", "empathetic approach"],
+        "minimum_scope": "standard"
+      },
+      "linking_approach": {
+        "primary_connections": ["Service pages", "Consultation page"],
+        "avoid_patterns": ["manipulative emotional targeting"]
+      },
+      "dependencies": [],
       "target_journey_stage": "consideration",
-      "rationale": "Targets family member searches with emotional guidance for both personas' family involvement needs"
-    },
-    {
-      "content_title": "עורך דין ביטוח סיעוד חיפה וצפון",
-      "content_type": "landing_page",
-      "target_cluster": "Local Market Targeting",
-      "strategic_phase": "phase_3",
-      "business_priority": "high",
-      "prioritization_category": "conversion_driver",
-      "content_relationships": {
-        "parent_content": "main_service_page",
-        "child_content": [],
-        "internal_links_to": ["main_service_page", "consultation_landing_page", "petah_tikva_landing_page"]
-      },
-      "resource_requirements": {
-        "complexity_level": "medium",
-        "research_required": "moderate"
-      },
-      "dependencies": ["main_service_page", "petah_tikva_landing_page"],
-      "target_journey_stage": "decision",
-      "rationale": "Secondary geographic market expansion for Yosef's location with commercial intent and reduced competition"
+      "rationale": "Addresses family-driven searches with clear guidance toward professional consultation, supporting family decision dynamics"
     }
   ]
 }

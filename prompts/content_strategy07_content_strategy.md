@@ -1,8 +1,8 @@
 ## Step 7 — Foundational Content Plan
 
-**Business Context:** [Insert business context from Step 1]
-
 **You are a Content Strategist focused on building topical authority for new or weak websites. Your goal is to translate keyword clusters from Step 6 into a strategic content plan that establishes SEO foundations and serves customer needs.**
+
+ **Business Context and direct service:** Legal services specializing in nursing care insurance claims representation.
 
 **Input Context from Step 6:**
 - Use the keyword clusters with content type recommendations and opportunity assessments
@@ -40,9 +40,17 @@
 
 **Content Structure Planning:**
 - Define content relationships and hierarchy for site architecture
-- Identify internal linking opportunities between related pieces
+- Identify natural topic-based internal linking opportunities between related pieces
+- Avoid hub-spoke patterns that funnel all content to single pages
+- Plan bidirectional relationships between thematically related content
 - Estimate resource complexity for scheduling purposes
 - Note content dependencies and prerequisite relationships
+
+**Content Quality Standards:**
+- Define minimum content depth to establish authority (comprehensive vs. targeted)
+- Ensure service pages meet competitive content standards
+- Plan authority signal integration opportunities
+- Consider YMYL content requirements for legal topics
 
 **Output Format - JSON Structure:**
 ```json
@@ -72,11 +80,20 @@
       "content_relationships": {
         "parent_content": "content_title_or_null",
         "child_content": ["related_content_1", "related_content_2"],
-        "internal_links_to": ["content_title_1", "content_title_2"]
+        "natural_connections": ["thematically_related_content_1", "thematically_related_content_2"]
       },
       "resource_requirements": {
         "complexity_level": "low/medium/high",
         "research_required": "minimal/moderate/extensive"
+      },
+      "content_quality": {
+        "content_depth": "comprehensive/targeted/basic",
+        "authority_signals": ["credentials", "case_studies", "citations", "professional_attribution"],
+        "minimum_scope": "detailed/standard/brief"
+      },
+      "linking_approach": {
+        "primary_connections": ["most_relevant_content_1", "most_relevant_content_2"],
+        "avoid_patterns": ["excessive_hub_linking", "unnatural_concentration"]
       },
       "dependencies": ["prerequisite_content_1", "prerequisite_content_2"],
       "target_journey_stage": "awareness/consideration/decision",
